@@ -1,67 +1,82 @@
 [
   {
     "episode": 1,
-    "kicker": "SET",
-    "title": "would",
-    "lede": "would는 will의 과거형이 아니라, 거리를 두는 말이에요. 시간의 거리(과거의 습관), 현실과의 거리(가정), 사람과의 거리(공손함) — 이 세 가지만 잡으면 대부분 해결됩니다.",
+    "kicker": "VERB",
+    "title": "come",
+    "lede": "한국에 어떻게 오게 됐는지 궁금할 때, 다음에 같이 오자고 말할 때. come으로 서로의 이야기를 조금씩 나눠봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "과거에 반복했던 일",
-        "description": "used to와 비슷하지만, would는 “그땐 늘 그랬지”라는 회상의 뉘앙스가 강해요. 상태(있었다·좋아했다)에는 쓰지 않고 반복 행동에만 씁니다.",
+        "label": "come to Korea · 한국에 온 이야기",
+        "description": "한국에 왔다는 이야기가 나오면, 언제 왔는지부터 가볍게 물어봐요. 오게 된 계기까지 물으면 일이나 관심사 이야기로 이어갈 수 있어요.",
         "examples": [
           {
-            "english": "Every summer we would drive down to the coast.",
-            "korean": "여름마다 우린 해안까지 차로 내려갔어."
+            "english": "When did you first come to Korea?",
+            "korean": "한국에는 처음 언제 오셨어요?"
           },
           {
-            "english": "She would always leave a note on the fridge.",
-            "korean": "그 사람은 늘 냉장고에 메모를 붙여두곤 했어."
+            "english": "How did you decide to come to Korea?",
+            "korean": "어떻게 한국에 오기로 하셨어요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "공손한 부탁과 제안",
-        "description": "상대에게 바로 요구하지 않고 한 발 물러서는 표현이에요. Can you보다 Would you가, I want보다 I would like가 훨씬 부드럽게 들립니다.",
+        "label": "come here · 이곳에 오다",
+        "description": "카페나 모임에서 이곳에 자주 오는지 물어봐요. 내 이야기도 한마디 보태면 질문만 주고받는 대화에서 조금 더 편해질 수 있어요.",
         "examples": [
           {
-            "english": "Would you mind sending it again?",
-            "korean": "다시 보내주실 수 있을까요?"
+            "english": "Do you come here often?",
+            "korean": "여기 자주 오세요?"
           },
           {
-            "english": "I'd like to hear your take on this.",
-            "korean": "이 건에 대한 네 생각을 듣고 싶어."
+            "english": "I usually come here on weekends.",
+            "korean": "저는 보통 주말에 여기 와요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "가정과 상상",
-        "description": "If절과 짝을 이루거나 혼자서도 “현실은 아니지만”을 뜻해요. 조건절에는 과거형, 결과절에는 would를 씁니다.",
+        "label": "come with us · 같이 가다",
+        "description": "모임이 끝나고 밥을 먹으러 가거나 근처를 구경할 때, 같이 가자고 말을 건네봐요. 우리와 함께 이동하자는 말에는 come with us가 자연스러워요.",
         "examples": [
           {
-            "english": "If I had more time, I would rewrite the whole thing.",
-            "korean": "시간이 더 있으면 전부 다시 쓸 텐데."
+            "english": "We're going out for lunch. Do you want to come with us?",
+            "korean": "저희 점심 먹으러 가는데 같이 가실래요?"
           },
           {
-            "english": "That would be a problem.",
-            "korean": "그건 문제가 될 텐데."
+            "english": "You can come with me if you want.",
+            "korean": "괜찮으시면 저랑 같이 가셔도 돼요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "의지와 거절의 회상",
-        "description": "과거에 “하려 했다 / 끝까지 안 했다”를 나타내요. wouldn't는 단순한 과거 부정이 아니라 완강한 거부의 느낌입니다.",
+        "label": "come up · 갑자기 일이 생기다",
+        "description": "갑자기 일이 생겨 약속을 바꿔야 한다면 something came up이라고 말해요. 자세한 사정을 길게 설명하기 어려울 때도 이 한마디로 이야기를 꺼낼 수 있어요.",
         "examples": [
           {
-            "english": "He wouldn't listen to anyone.",
-            "korean": "그는 누구 말도 들으려 하지 않았어."
+            "english": "I'm sorry, something came up. Can we meet tomorrow instead?",
+            "korean": "미안해요, 갑자기 일이 생겨서요. 대신 내일 만날 수 있을까요?"
           },
           {
-            "english": "I asked twice, but the door would not budge.",
-            "korean": "두 번이나 해봤지만 문은 꼼짝도 하지 않았어."
+            "english": "Let me know if anything comes up.",
+            "korean": "혹시 무슨 일 생기면 알려주세요."
+          }
+        ]
+      },
+      {
+        "number": "05",
+        "label": "come back · 다시 오다",
+        "description": "함께 간 곳이 마음에 들었다면 다음에 또 오자고 해봐요. 이번에 못 해본 일을 덧붙이면 다음에 만날 이유도 자연스럽게 생겨요.",
+        "examples": [
+          {
+            "english": "We should come back here sometime.",
+            "korean": "우리 여기 다음에 또 와요."
+          },
+          {
+            "english": "I'd love to come back and try the food.",
+            "korean": "다음에 다시 와서 음식도 먹어보고 싶어요."
           }
         ]
       }
@@ -69,102 +84,82 @@
   },
   {
     "episode": 2,
-    "kicker": "VERB",
-    "title": "get",
-    "lede": "원어민이 가장 많이 쓰는 동사예요. 정해진 뜻이 거의 없어서 오히려 아무 자리에나 들어갑니다.",
+    "kicker": "SET",
+    "title": "openers",
+    "lede": "처음 만난 사람에게 무슨 말을 할지 막막하다면, 지금 함께 있는 자리부터 이야기해봐요. 짧은 질문 하나면 충분해요.",
     "blocks": [
       {
         "number": "01",
-        "label": "이해하다",
-        "description": "understand를 회화에서 이렇게 씁니다. 짧게 I get it 한마디로 끝내요.",
+        "label": "I don't think we've met · 우리 처음 뵙죠?",
+        "description": "친구 모임이나 행사에서 아직 인사를 나누지 않은 사람이 있다면 이렇게 시작해봐요. 내 이름까지 바로 말해주면 상대도 소개하기 편해요.",
         "examples": [
           {
-            "english": "I get it.",
-            "korean": "무슨 말인지 알겠어."
+            "english": "Hi, I don't think we've met. I'm Jimin.",
+            "korean": "안녕하세요, 저희 아직 인사 안 했죠? 저는 지민이에요."
           },
           {
-            "english": "I don't get it.",
-            "korean": "이해가 안 가."
-          },
-          {
-            "english": "Don't get me wrong.",
-            "korean": "오해하지 마."
+            "english": "I'm sorry, I didn't catch your name.",
+            "korean": "죄송해요, 성함을 못 들었어요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "~하게 되다",
-        "description": "become의 자리를 대신합니다. 상태가 변해가는 중이라는 느낌이 있어요.",
+        "label": "is this your first time · 처음 오셨어요?",
+        "description": "같은 모임에 왔다는 것만으로도 이야기할 거리가 생겨요. 처음인지 물어보고, 나도 처음이라면 그 말을 덧붙여봐요.",
         "examples": [
           {
-            "english": "It's getting cold.",
-            "korean": "날씨가 추워지네."
+            "english": "Is this your first time at this meetup?",
+            "korean": "이 모임에는 처음 오셨어요?"
           },
           {
-            "english": "I got lost.",
-            "korean": "길을 잃었어."
-          },
-          {
-            "english": "She's getting better.",
-            "korean": "걔 점점 나아지고 있어."
+            "english": "It's my first time here. How about you?",
+            "korean": "저는 여기 처음 왔어요. 혹시 처음이세요?"
           }
         ]
       },
       {
         "number": "03",
-        "label": "도착하다",
-        "description": "arrive는 딱딱합니다. 일상에서는 거의 전부 get이에요.",
+        "label": "how do you know · 어떻게 아는 사이예요?",
+        "description": "친구가 소개해준 자리에서는 함께 아는 사람 이야기를 꺼내봐요. 어떻게 알게 됐는지 묻다 보면 학교나 일 이야기로도 이어져요.",
         "examples": [
           {
-            "english": "What time did you get there?",
-            "korean": "몇 시에 도착했어?"
+            "english": "How do you know Mina?",
+            "korean": "미나랑은 어떻게 아는 사이예요?"
           },
           {
-            "english": "I just got home.",
-            "korean": "나 방금 집에 왔어."
-          },
-          {
-            "english": "We're not getting anywhere.",
-            "korean": "진전이 없네."
+            "english": "I used to work with Mina. We still meet up for coffee.",
+            "korean": "저는 예전에 미나랑 같이 일했어요. 지금도 가끔 만나서 커피 마셔요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "시키다 · 되게 하다",
-        "description": "get + 사람 + to부정사, get + 사물 + p.p. 두 형태를 기억하세요.",
+        "label": "by the way · 아, 그런데",
+        "description": "대화하다가 다른 게 궁금해졌다면 by the way로 살짝 화제를 바꿔봐요. 이야기 흐름이 잠깐 쉬어갈 때 붙이기 좋아요.",
         "examples": [
           {
-            "english": "Let's get it done.",
-            "korean": "이거 끝내버리자."
+            "english": "By the way, do you live around here?",
+            "korean": "아, 그런데 이 근처에 사세요?"
           },
           {
-            "english": "I'll get him to call you.",
-            "korean": "걔한테 전화하라고 할게."
-          },
-          {
-            "english": "Can you get the door?",
-            "korean": "문 좀 봐줄래?"
+            "english": "By the way, how do you pronounce your name?",
+            "korean": "아, 그런데 이름은 어떻게 발음하면 돼요?"
           }
         ]
       },
       {
         "number": "05",
-        "label": "출발하다 · 시작하다",
-        "description": "자리를 뜰 때 쓰는 정해진 표현이 있습니다.",
+        "label": "speaking of · 그 얘기가 나와서 말인데",
+        "description": "상대가 한 말에서 다음 이야기를 찾아봐요. 커피 이야기를 했다면 speaking of coffee처럼 방금 나온 주제를 붙여주면 돼요.",
         "examples": [
           {
-            "english": "I've got to get going.",
-            "korean": "나 이제 가봐야 해."
+            "english": "Speaking of coffee, do you have a favorite cafe around here?",
+            "korean": "커피 얘기가 나와서 말인데, 이 근처에 좋아하는 카페 있어요?"
           },
           {
-            "english": "Let's get started.",
-            "korean": "시작하자."
-          },
-          {
-            "english": "Get out of here.",
-            "korean": "나가 / 말도 안 돼."
+            "english": "Speaking of hiking, have you been to Bukhansan?",
+            "korean": "등산 얘기가 나와서 말인데, 북한산 가보셨어요?"
           }
         ]
       }
@@ -172,98 +167,82 @@
   },
   {
     "episode": 3,
-    "kicker": "SET",
-    "title": "connectors",
-    "lede": "문장과 문장 사이를 메우는 말들이에요. 이게 없으면 말이 뚝뚝 끊깁니다.",
+    "kicker": "VERB",
+    "title": "put",
+    "lede": "가방을 어디에 둘지 물어보고, 휴대폰으로 연락처를 주고받아봐요. put은 함께 있는 자리의 작은 순간에도 자주 나와요.",
     "blocks": [
       {
         "number": "01",
-        "label": "anyway · 아무튼",
-        "description": "곁길로 샌 이야기를 제자리로 돌리거나, 대화를 끝낼 때 씁니다.",
+        "label": "put ... here · 여기에 두다",
+        "description": "카페나 사무실에서 가방 둘 곳이 필요할 때 바로 물어볼 수 있어요. 상대가 짐을 들고 있다면 놓을 자리를 알려줘도 좋고요.",
         "examples": [
           {
-            "english": "Anyway, that's not the point.",
-            "korean": "아무튼 그게 중요한 게 아니고."
+            "english": "Can I put my bag here?",
+            "korean": "가방 여기 둬도 될까요?"
           },
           {
-            "english": "Anyway, I should get going.",
-            "korean": "아무튼 나 이제 가볼게."
-          },
-          {
-            "english": "Anyway. Where were we?",
-            "korean": "아무튼. 어디까지 얘기했더라?"
+            "english": "You can put your coat on this chair.",
+            "korean": "외투는 이 의자에 두셔도 돼요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "though · 근데 (문장 끝)",
-        "description": "문장 끝에 붙는 but입니다. 한국인이 가장 안 쓰는 자리예요.",
+        "label": "put ... in · 입력하다",
+        "description": "연락처를 주고받거나 지도에서 장소를 찾을 때, 상대에게 휴대폰을 보여주며 부탁해봐요. 긴 이름이나 주소를 말로 받아 적지 않아도 돼요.",
         "examples": [
           {
-            "english": "It's expensive. It's worth it, though.",
-            "korean": "비싸긴 해. 근데 그만한 값은 해."
+            "english": "Can you put your number in my phone?",
+            "korean": "제 폰에 전화번호 입력해주실래요?"
           },
           {
-            "english": "Nice try, though.",
-            "korean": "그래도 시도는 좋았어."
-          },
-          {
-            "english": "I like it, though.",
-            "korean": "난 근데 좋던데."
+            "english": "I'll put the address in for you.",
+            "korean": "주소는 제가 입력해드릴게요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "that said · 그렇긴 한데",
-        "description": "앞말을 인정하고 뒤집는 연결입니다. however보다 훨씬 구어적이에요.",
+        "label": "put into words · 말로 표현하다",
+        "description": "생각은 있는데 말이 잘 안 나올 때 있죠. 어떻게 표현해야 할지 모르겠다고 말해두면 잠깐 생각할 여유도 생겨요.",
         "examples": [
           {
-            "english": "That said, I get why you're upset.",
-            "korean": "그렇긴 한데, 네가 화난 것도 이해해."
+            "english": "I'm not sure how to put it into words.",
+            "korean": "이걸 어떻게 말로 표현해야 할지 모르겠어요."
           },
           {
-            "english": "It's risky. That said, I'm in.",
-            "korean": "위험하긴 해. 그래도 난 할래."
+            "english": "It's hard to put this into words in English.",
+            "korean": "이걸 영어로 설명하려니 좀 어렵네요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "either way · 어느 쪽이든",
-        "description": "선택지가 뭐든 결론은 같다는 뜻입니다.",
+        "label": "put off · 미루다",
+        "description": "운동이나 공부처럼 해야겠다고 생각만 하고 미루는 일도 대화 소재가 돼요. 계속 미루고 있다는 말에는 keep putting off를 붙여봐요.",
         "examples": [
           {
-            "english": "Either way, we need to decide today.",
-            "korean": "어느 쪽이든 오늘 정해야 해."
+            "english": "I keep putting off studying English.",
+            "korean": "영어 공부를 자꾸 미루게 돼요."
           },
           {
-            "english": "Either way works for me.",
-            "korean": "난 아무거나 괜찮아."
-          },
-          {
-            "english": "It doesn't matter either way.",
-            "korean": "어느 쪽이든 상관없어."
+            "english": "I've been putting off joining a gym.",
+            "korean": "헬스장 등록해야지 하면서 계속 미루고 있어요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "at the end of the day · 결국",
-        "description": "곁가지를 다 걷어내고 남는 결론. 말버릇처럼 쓰입니다.",
+        "label": "put together · 모아서 만들다",
+        "description": "추천할 장소나 맛집을 몇 개 모아 정리해줄 때 쓰기 좋아요. 상대가 관심 있어 하는 것을 듣고 작은 목록을 만들어주겠다고 해봐요.",
         "examples": [
           {
-            "english": "At the end of the day, it's your call.",
-            "korean": "결국 네가 정할 일이야."
+            "english": "I can put together a list of places to eat.",
+            "korean": "가볼 만한 식당을 몇 군데 정리해드릴게요."
           },
           {
-            "english": "At the end of the day, we're still family.",
-            "korean": "어쨌든 우린 가족이잖아."
-          },
-          {
-            "english": "At the end of the day, nobody got hurt.",
-            "korean": "어쨌든 다친 사람은 없잖아."
+            "english": "I put together a few ideas for the weekend.",
+            "korean": "주말에 할 만한 걸 몇 가지 정리해봤어요."
           }
         ]
       }
@@ -271,94 +250,82 @@
   },
   {
     "episode": 4,
-    "kicker": "VERB",
-    "title": "take",
-    "lede": "손으로 잡는다는 뜻보다 \"걸리다·받아들이다\"로 쓰는 경우가 훨씬 많아요.",
+    "kicker": "PHRASE",
+    "title": "way",
+    "lede": "오는 길이 어땠는지 묻고, 근처 길도 알려줘봐요. way로 길 이야기부터 취향 비교까지 이어갈 수 있어요.",
     "blocks": [
       {
         "number": "01",
-        "label": "시간이 걸리다",
-        "description": "주어가 사람이 아니라 It인 게 포인트입니다.",
+        "label": "on my way · 가는 중",
+        "description": "약속 장소로 이동하면서 어디쯤인지 알려줘요. 집에 가는 길에 들를 곳을 이야기할 때도 잘 어울려요.",
         "examples": [
           {
-            "english": "How long does it take?",
-            "korean": "얼마나 걸려?"
+            "english": "I'm on my way. I'll be there in ten minutes.",
+            "korean": "지금 가고 있어요. 10분 뒤에 도착해요."
           },
           {
-            "english": "It won't take long.",
-            "korean": "오래 안 걸려."
-          },
-          {
-            "english": "Take your time.",
-            "korean": "천천히 해."
+            "english": "I usually stop for coffee on my way to work.",
+            "korean": "저는 보통 출근길에 커피를 사요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "받아들이다",
-        "description": "말이나 상황을 어떻게 받아들이느냐를 말합니다.",
+        "label": "the way here · 여기 오는 길",
+        "description": "만나자마자 오는 길 이야기를 꺼내봐요. 길에서 본 것이나 겪은 일을 한마디 보태면 대화가 시작돼요.",
         "examples": [
           {
-            "english": "Don't take it personally.",
-            "korean": "기분 나쁘게 받아들이지 마."
+            "english": "Did you get lost on the way here?",
+            "korean": "여기 오는 길에 헤매지는 않으셨어요?"
           },
           {
-            "english": "I'll take that as a yes.",
-            "korean": "그럼 하겠다는 걸로 알게."
-          },
-          {
-            "english": "Take it easy.",
-            "korean": "진정해 / 몸조심해."
+            "english": "I saw a nice bakery on the way here.",
+            "korean": "여기 오는 길에 괜찮아 보이는 빵집을 봤어요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "한번 해보다",
-        "description": "명사와 짝을 이뤄 동사 역할을 합니다. take a look, take a break처럼요.",
+        "label": "this way · 이쪽으로",
+        "description": "길을 설명하기 어렵다면 방향을 가리키거나 잠깐 같이 걸어줘도 좋아요. 짧은 문장으로도 충분히 도와줄 수 있어요.",
         "examples": [
           {
-            "english": "Take a look at this.",
-            "korean": "이것 좀 봐봐."
+            "english": "The station is this way. I'll walk with you.",
+            "korean": "역은 이쪽이에요. 같이 가드릴게요."
           },
           {
-            "english": "I'll take a guess.",
-            "korean": "한번 찍어볼게."
+            "english": "Are we going the right way?",
+            "korean": "우리 이쪽으로 가는 거 맞아요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "넘겨받다",
-        "description": "역할이나 일을 이어받는다는 뜻입니다.",
+        "label": "a good way to · 좋은 방법",
+        "description": "한국 생활이나 영어 공부 이야기를 하다가 내가 해본 방법을 나눠봐요. 상대에게 방법을 물어볼 때도 편해요.",
         "examples": [
           {
-            "english": "I'll take over from here.",
-            "korean": "여기서부턴 내가 할게."
+            "english": "What's a good way to practice speaking English?",
+            "korean": "영어 말하기 연습은 어떻게 하면 좋을까요?"
           },
           {
-            "english": "She took over the team.",
-            "korean": "걔가 팀을 맡았어."
+            "english": "Joining a club is a good way to meet people here.",
+            "korean": "여기서 사람들을 만나려면 동호회에 들어가는 것도 좋아요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "고르다",
-        "description": "가게에서 주문할 때 I want 대신 씁니다.",
+        "label": "way + 비교급 · 훨씬",
+        "description": "직접 먹어보거나 가보고 예상과 달랐다면 느낌을 말해봐요. way better, way easier처럼 차이가 꽤 클 때 붙이면 돼요.",
         "examples": [
           {
-            "english": "I'll take this one.",
-            "korean": "이걸로 할게요."
+            "english": "This is way less spicy than I expected.",
+            "korean": "이거 생각보다 훨씬 덜 맵네요."
           },
           {
-            "english": "Take your pick.",
-            "korean": "골라봐."
-          },
-          {
-            "english": "I'll take the window seat.",
-            "korean": "창가 자리로 할게요."
+            "english": "It's way easier to get around by subway.",
+            "korean": "지하철로 다니는 게 훨씬 편해요."
           }
         ]
       }
@@ -366,90 +333,82 @@
   },
   {
     "episode": 5,
-    "kicker": "PHRASE",
-    "title": "mean",
-    "lede": "\"의미하다\"로 배웠지만, 실제로는 말버릇에 가깝게 더 많이 나옵니다.",
+    "kicker": "SET",
+    "title": "refusals",
+    "lede": "함께하고 싶어도 어려운 날이 있죠. 고마운 마음은 전하면서, 내가 할 수 있는 만큼만 편하게 답해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "I mean · 그러니까",
-        "description": "앞말을 고쳐 말할 때, 변명을 시작할 때, 그냥 뜸 들일 때 전부 씁니다. 회화 만능 표현이에요.",
+        "label": "I'm good, thanks · 저는 괜찮아요",
+        "description": "음식이나 음료를 더 권하는 자리에서 충분히 먹었다면 이렇게 답해요. 권유를 받는 상황이라 더는 필요 없다는 말로 자연스럽게 들려요.",
         "examples": [
           {
-            "english": "I mean, what else could I do?",
-            "korean": "아니, 내가 뭘 어떻게 해."
+            "english": "I'm good, thanks. I've had enough coffee.",
+            "korean": "저는 괜찮아요, 고마워요. 커피는 충분히 마셨어요."
           },
           {
-            "english": "It's fine. I mean, it's not great, but it's fine.",
-            "korean": "괜찮아. 뭐, 좋진 않지만 괜찮아."
-          },
-          {
-            "english": "I mean, I get it.",
-            "korean": "아니 뭐, 이해는 해."
+            "english": "No more for me, thanks. I'm full.",
+            "korean": "저는 더 안 먹어도 돼요, 고마워요. 배불러요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "what do you mean · 무슨 소리야",
-        "description": "되묻는 말인데, 억양에 따라 순수한 질문이 되기도 하고 따지는 말이 되기도 합니다.",
+        "label": "I'll pass · 이번에는 안 할게요",
+        "description": "다 같이 하는 활동에 참여하고 싶지 않을 수도 있어요. 이번에는 빠지겠다고 말하고, 즐겁게 보내라는 말을 보태봐요.",
         "examples": [
           {
-            "english": "What do you mean?",
-            "korean": "그게 무슨 말이야?"
+            "english": "I'll pass on karaoke tonight, but have fun!",
+            "korean": "오늘 노래방은 저는 빠질게요. 재미있게 놀아요!"
           },
           {
-            "english": "That's not what I meant.",
-            "korean": "내 말은 그게 아니야."
+            "english": "I think I'll sit this one out. My legs are tired.",
+            "korean": "이번에는 쉬고 있을게요. 다리가 피곤하네요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "mean to · ~할 생각이었다",
-        "description": "의도를 말합니다. 사과할 때 가장 먼저 나오는 표현이에요.",
+        "label": "maybe another time · 다음에 해요",
+        "description": "제안은 반갑지만 오늘 시간이 안 된다면 다른 날을 제안해봐요. 실제로 가능한 날을 말해주면 다음 약속을 잡기 쉬워요.",
         "examples": [
           {
-            "english": "I've been meaning to call you.",
-            "korean": "계속 전화하려고 했었어."
+            "english": "I'd love to, but I'm busy tonight. How about Saturday?",
+            "korean": "좋죠, 그런데 오늘 저녁에는 일이 있어요. 토요일은 어때요?"
           },
           {
-            "english": "I meant to ask you something.",
-            "korean": "뭐 좀 물어보려고 했었어."
+            "english": "Maybe another time. I have plans after work.",
+            "korean": "다음에 해요. 오늘 퇴근하고 약속이 있어요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "mean it · 진심이야",
-        "description": "농담이 아니라는 걸 못 박을 때 씁니다.",
+        "label": "I'd rather not · 안 하고 싶어요",
+        "description": "사진이나 개인적인 이야기처럼 내키지 않는 일은 편하게 선을 그어도 돼요. 이유를 길게 설명하지 않아도 괜찮아요.",
         "examples": [
           {
-            "english": "I mean it.",
-            "korean": "진심이야."
+            "english": "I'd rather not be in the photo, if that's okay.",
+            "korean": "괜찮으시면 저는 사진에서 빠질게요."
           },
           {
-            "english": "You don't mean that.",
-            "korean": "진심 아니잖아."
-          },
-          {
-            "english": "Did he mean it?",
-            "korean": "걔 진심이었어?"
+            "english": "I'd rather not talk about work tonight.",
+            "korean": "오늘 저녁에는 일 이야기는 안 하고 싶어요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "meant to be · 그럴 운명이었다",
-        "description": "인연이나 운명을 말할 때의 굳어진 표현입니다.",
+        "label": "I can't commit yet · 아직 확답은 어려워요",
+        "description": "일정을 확인해야 한다면 바로 약속하지 않아도 돼요. 언제 답할 수 있는지 함께 말해주면 상대도 기다리기 편해요.",
         "examples": [
           {
-            "english": "It wasn't meant to be.",
-            "korean": "인연이 아니었나 봐."
+            "english": "I can't commit yet. Can I let you know tomorrow?",
+            "korean": "아직 확답은 어려워요. 내일 알려드려도 될까요?"
           },
           {
-            "english": "We were meant to be.",
-            "korean": "우린 만날 운명이었어."
+            "english": "Let me check my schedule before I say yes.",
+            "korean": "일정을 확인하고 답할게요."
           }
         ]
       }
@@ -457,86 +416,82 @@
   },
   {
     "episode": 6,
-    "kicker": "SET",
-    "title": "reactions",
-    "lede": "상대 말에 얹는 맞장구예요. 짧을수록 자연스럽습니다.",
+    "kicker": "VERB",
+    "title": "run",
+    "lede": "동네에서 우연히 다시 만나고, 조금 늦는다고 연락할 때. run으로 일상에서 생긴 일을 이야기해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "tell me about it · 말도 마",
-        "description": "설명해달라는 뜻이 아니라 격한 공감입니다. 정반대로 알아듣기 쉬운 대표 표현이에요.",
+        "label": "run into · 우연히 만나다",
+        "description": "아는 사람을 예상 못 한 곳에서 만났을 때 반갑게 말을 건네봐요. 전에 마주친 일을 떠올릴 때도 좋아요.",
         "examples": [
           {
-            "english": "\"Traffic was insane.\" \"Tell me about it.\"",
-            "korean": "\"차 진짜 막혔어.\" \"말도 마.\""
+            "english": "It's nice to run into you here!",
+            "korean": "여기서 만나니까 반갑네요!"
           },
           {
-            "english": "Tell me about it. I've been there.",
-            "korean": "내 말이. 나도 겪어봤어."
+            "english": "I think we ran into each other at the cafe last week.",
+            "korean": "우리 지난주에 카페에서 마주쳤던 것 같아요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "I know, right? · 그니까",
-        "description": "상대 말에 완전히 동의할 때. 끝을 올려 말합니다.",
+        "label": "run out of · 다 떨어지다",
+        "description": "같이 먹거나 무언가 만들다가 필요한 게 떨어졌다면 알려줘요. 내가 가져오겠다는 말까지 보태면 자연스러워요.",
         "examples": [
           {
-            "english": "\"It's so hot.\" \"I know, right?\"",
-            "korean": "\"너무 덥다.\" \"그니까.\""
+            "english": "We've run out of napkins. I'll get some more.",
+            "korean": "냅킨이 다 떨어졌네요. 제가 더 가져올게요."
           },
           {
-            "english": "I know, right? Same here.",
-            "korean": "그니까. 나도 그래."
+            "english": "I'm running out of space on my phone.",
+            "korean": "휴대폰 저장 공간이 거의 다 찼어요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "I hear you · 무슨 말인지 알아",
-        "description": "동의한다는 뜻은 아닙니다. 뒤에 but이 붙는 경우가 많아요.",
+        "label": "running late · 늦어지고 있다",
+        "description": "약속에 늦을 것 같으면 미리 알려줘요. 얼마나 늦을지나 먼저 시작해도 된다는 말을 함께 전해봐요.",
         "examples": [
           {
-            "english": "I hear you, but we don't have a choice.",
-            "korean": "무슨 말인지 알아. 근데 선택지가 없어."
+            "english": "I'm running about ten minutes late. Sorry!",
+            "korean": "저 10분 정도 늦을 것 같아요. 미안해요!"
           },
           {
-            "english": "I hear you.",
-            "korean": "무슨 말인지 알겠어."
+            "english": "If you're running late, just send me a message.",
+            "korean": "늦을 것 같으면 메시지 하나만 보내주세요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "fair enough · 그럴 수 있지",
-        "description": "완전히 동의하진 않지만 받아들이겠다는 말입니다.",
+        "label": "run something by you · 의견을 물어보다",
+        "description": "함께 할 계획을 세우다가 상대의 생각이 궁금하면 이렇게 말을 꺼내요. 정하기 전에 한번 들어봐 달라는 느낌이에요.",
         "examples": [
           {
-            "english": "\"I just didn't feel like it.\" \"Fair enough.\"",
-            "korean": "\"그냥 하기 싫었어.\" \"그럴 수 있지.\""
+            "english": "Can I run an idea by you?",
+            "korean": "아이디어 하나 있는데, 의견 좀 물어봐도 돼요?"
           },
           {
-            "english": "Fair enough, I'll drop it.",
-            "korean": "알겠어, 더 안 물어볼게."
+            "english": "Let me run the plan by you before we book anything.",
+            "korean": "예약하기 전에 계획을 한번 말씀드릴게요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "no wonder · 어쩐지",
-        "description": "이유를 알고 나서 나오는 말입니다.",
+        "label": "go for a run · 달리러 가다",
+        "description": "운동 이야기는 서로의 생활을 알아가기 좋아요. 얼마나 자주 뛰는지, 어디서 뛰는지 가볍게 나눠봐요.",
         "examples": [
           {
-            "english": "No wonder you're tired.",
-            "korean": "어쩐지 피곤할 만하네."
+            "english": "I go for a run by the river on Sundays.",
+            "korean": "저는 일요일마다 강변에서 달려요."
           },
           {
-            "english": "No wonder it didn't work.",
-            "korean": "안 되던 이유가 있었네."
-          },
-          {
-            "english": "No wonder.",
-            "korean": "그럴 만하네."
+            "english": "Do you prefer running alone or with other people?",
+            "korean": "혼자 뛰는 게 좋아요, 아니면 같이 뛰는 게 좋아요?"
           }
         ]
       }
@@ -544,102 +499,82 @@
   },
   {
     "episode": 7,
-    "kicker": "VERB",
-    "title": "make",
-    "lede": "만든다는 뜻보다 \"해내다·되게 하다\"로 더 많이 씁니다.",
+    "kicker": "PHRASE",
+    "title": "up",
+    "lede": "요즘 뭐 하는지 궁금하고, 같이할 일도 제안하고 싶다면. up이 들어간 짧은 표현으로 말을 이어가봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "해내다 · 시간 맞춰 가다",
-        "description": "make it 한 덩어리로 외우세요. 상황에 따라 성공·도착·참석을 다 뜻합니다.",
+        "label": "what have you been up to · 요즘 뭐 하고 지내요?",
+        "description": "전에 만났던 사람과 다시 이야기할 때 근황을 물어봐요. 주말처럼 기간을 좁히면 상대도 답하기 쉬워요.",
         "examples": [
           {
-            "english": "I made it.",
-            "korean": "해냈어 / 시간 맞춰 왔어."
+            "english": "What have you been up to lately?",
+            "korean": "요즘 뭐 하고 지내세요?"
           },
           {
-            "english": "I can't make it tonight.",
-            "korean": "오늘 밤엔 못 갈 것 같아."
-          },
-          {
-            "english": "We made it just in time.",
-            "korean": "아슬아슬하게 도착했어."
+            "english": "What did you get up to over the weekend?",
+            "korean": "주말에 뭐 하셨어요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "말이 되다",
-        "description": "주어 That을 빼고 그냥 던지는 게 더 자연스럽습니다.",
+        "label": "up to you · 편한 대로 정해요",
+        "description": "내가 어느 쪽이든 괜찮다면 상대에게 선택을 맡겨봐요. 무엇을 정하는지 함께 말하면 더 분명해요.",
         "examples": [
           {
-            "english": "That makes sense.",
-            "korean": "그건 말 되네."
+            "english": "It's up to you. I'm happy to eat anywhere.",
+            "korean": "편한 데로 정하세요. 저는 어디서 먹든 좋아요."
           },
           {
-            "english": "It doesn't make any sense.",
-            "korean": "말이 안 되잖아."
-          },
-          {
-            "english": "Makes sense.",
-            "korean": "이해돼."
+            "english": "We can sit inside or outside. It's up to you.",
+            "korean": "안에 앉아도 되고 밖에 앉아도 돼요. 편한 쪽으로 골라요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "지어내다 · 화해하다",
-        "description": "make up은 목적어에 따라 뜻이 완전히 갈립니다.",
+        "label": "up for · 같이할 마음이 있다",
+        "description": "가벼운 활동을 제안할 때 상대가 하고 싶은지 물어봐요. 무엇을 할지 붙여서 문장째로 기억해두면 편해요.",
         "examples": [
           {
-            "english": "Are you making that up?",
-            "korean": "그거 지어낸 거 아니야?"
+            "english": "Are you up for a short walk after dinner?",
+            "korean": "저녁 먹고 잠깐 걸을래요?"
           },
           {
-            "english": "I made it up.",
-            "korean": "내가 꾸며낸 얘기야."
-          },
-          {
-            "english": "They made up.",
-            "korean": "걔네 화해했어."
+            "english": "I'm up for trying something new.",
+            "korean": "저는 새로운 걸 해봐도 좋아요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "~하게 만들다",
-        "description": "감정의 원인을 말할 때 씁니다. because 없이 한 문장으로 끝나요.",
+        "label": "speak up · 조금 크게 말하다",
+        "description": "카페가 시끄러워서 잘 안 들리면 조금 크게 말해달라고 부탁해봐요. 이유를 덧붙이면 상대도 바로 이해할 수 있어요.",
         "examples": [
           {
-            "english": "You made me laugh.",
-            "korean": "너 때문에 웃었잖아."
+            "english": "Could you speak up a little? It's noisy in here.",
+            "korean": "조금만 크게 말씀해주실래요? 여기가 시끄럽네요."
           },
           {
-            "english": "It makes me nervous.",
-            "korean": "그거 때문에 긴장돼."
-          },
-          {
-            "english": "Don't make me say it twice.",
-            "korean": "두 번 말하게 하지 마."
+            "english": "I'll speak up. Let me know if you can't hear me.",
+            "korean": "좀 더 크게 말할게요. 잘 안 들리면 알려주세요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "어떻게든 해내다",
-        "description": "make로 시작하는 굳어진 표현들입니다.",
+        "label": "look up · 찾아보다",
+        "description": "모르는 단어나 가게 정보를 함께 찾아봐요. 모든 걸 바로 설명할 수 없어도 이렇게 대화를 이어갈 수 있어요.",
         "examples": [
           {
-            "english": "We'll make do.",
-            "korean": "있는 걸로 어떻게든 해보자."
+            "english": "Let me look up the word. I know it in Korean.",
+            "korean": "단어 좀 찾아볼게요. 한국어로는 아는데요."
           },
           {
-            "english": "Make yourself at home.",
-            "korean": "편하게 있어."
-          },
-          {
-            "english": "Make sure you lock up.",
-            "korean": "문 꼭 잠가."
+            "english": "Can you look up what time it opens?",
+            "korean": "몇 시에 여는지 찾아봐 주실래요?"
           }
         ]
       }
@@ -647,98 +582,82 @@
   },
   {
     "episode": 8,
-    "kicker": "PHRASE",
-    "title": "kind of",
-    "lede": "정도를 흐려 주는 말이에요. 원어민 대화에서 가장 자주 들리는 표현 중 하나입니다.",
+    "kicker": "SET",
+    "title": "feelings",
+    "lede": "오늘 기분이 어떤지, 무엇이 기대되는지 말해봐요. 짧은 이유를 덧붙이면 내 이야기가 조금 더 잘 전해져요.",
     "blocks": [
       {
         "number": "01",
-        "label": "좀 · 약간",
-        "description": "형용사나 동사 앞에 붙여 강도를 낮춥니다. 말할 땐 거의 항상 kinda로 줄여요.",
+        "label": "a little nervous · 조금 긴장돼요",
+        "description": "처음 영어로 이야기할 때 긴장되는 마음도 말해도 좋아요. 긴장을 숨기려고 애쓰지 않아도 대화는 이어질 수 있어요.",
         "examples": [
           {
-            "english": "It's kind of a long story.",
-            "korean": "얘기하자면 좀 길어."
+            "english": "I'm a little nervous about speaking English.",
+            "korean": "영어로 말하려니까 조금 긴장돼요."
           },
           {
-            "english": "I kinda liked it.",
-            "korean": "나는 좀 괜찮던데."
-          },
-          {
-            "english": "It's kinda late.",
-            "korean": "좀 늦었네."
+            "english": "I feel more comfortable talking one-on-one.",
+            "korean": "저는 일대일로 이야기하는 게 더 편해요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "한마디 대답으로",
-        "description": "Yes도 No도 아닐 때 이 한마디로 끝냅니다.",
+        "label": "excited about · 기대돼요",
+        "description": "다가오는 계획 중 기대되는 일을 나눠봐요. 상대에게 무엇이 기대되는지 물으면 관심사도 알 수 있어요.",
         "examples": [
           {
-            "english": "\"Are you mad?\" \"Kind of.\"",
-            "korean": "\"화났어?\" \"좀.\""
+            "english": "I'm excited about the concert this weekend.",
+            "korean": "이번 주말 공연이 기대돼요."
           },
           {
-            "english": "\"Do you know him?\" \"Kind of.\"",
-            "korean": "\"걔 알아?\" \"뭐, 어느 정도는.\""
+            "english": "What are you most excited about these days?",
+            "korean": "요즘 가장 기대되는 일이 뭐예요?"
           }
         ]
       },
       {
         "number": "03",
-        "label": "sort of · 뭐랄까",
-        "description": "kind of와 거의 같지만, 딱 맞는 말을 못 찾았을 때 더 자주 나옵니다.",
+        "label": "tired · 피곤해요",
+        "description": "오늘 기운이 없는 이유를 가볍게 말해봐요. 익숙한 tired만으로도 충분히 자연스럽게 내 상태를 전할 수 있어요.",
         "examples": [
           {
-            "english": "He sort of nodded.",
-            "korean": "걔가 고개를 끄덕이는 둥 마는 둥 했어."
+            "english": "I'm pretty tired. I didn't sleep well last night.",
+            "korean": "좀 피곤해요. 어젯밤에 잠을 잘 못 잤어요."
           },
           {
-            "english": "It sort of makes sense.",
-            "korean": "뭐 말이 되는 것 같기도 하고."
-          },
-          {
-            "english": "I sort of forgot.",
-            "korean": "어쩌다 보니 까먹었어."
+            "english": "I'm tired, but I'm glad I came.",
+            "korean": "피곤하긴 한데 오길 잘했어요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "-ish · 쯤",
-        "description": "숫자·시간·형용사 뒤에 붙이면 \"대충 그쯤\"이 됩니다. 없는 단어를 만들어 붙여도 통해요.",
+        "label": "glad · 기뻐요 / 다행이에요",
+        "description": "대화가 즐겁거나 서로 통하는 게 있다면 바로 표현해봐요. 상대도 함께 있는 시간이 편하게 느껴질 거예요.",
         "examples": [
           {
-            "english": "Let's meet at seven-ish.",
-            "korean": "일곱 시쯤 보자."
+            "english": "I'm glad we got a chance to talk.",
+            "korean": "이렇게 이야기할 기회가 생겨서 좋네요."
           },
           {
-            "english": "He's tallish.",
-            "korean": "키가 큰 편이야."
-          },
-          {
-            "english": "\"How was it?\" \"Good-ish.\"",
-            "korean": "\"어땠어?\" \"뭐, 괜찮은 편?\""
+            "english": "I'm glad you like it. It's one of my favorite places.",
+            "korean": "마음에 드신다니 좋네요. 제가 좋아하는 곳 중 하나예요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "what kind of · 어떤",
-        "description": "원래 뜻인 \"종류\"로 쓰이는 자리입니다.",
+        "label": "overwhelmed · 벅차요",
+        "description": "할 일이 너무 많거나 새로운 환경에 적응하느라 정신없을 때의 마음이에요. 상대도 비슷하게 느끼는지 조심스럽게 물어봐요.",
         "examples": [
           {
-            "english": "What kind of music do you like?",
-            "korean": "어떤 음악 좋아해?"
+            "english": "I've been feeling a bit overwhelmed with work.",
+            "korean": "요즘 일이 좀 벅차게 느껴져요."
           },
           {
-            "english": "What kind of person does that?",
-            "korean": "어떤 사람이 그런 짓을 해?"
-          },
-          {
-            "english": "That kind of thing.",
-            "korean": "뭐 그런 거."
+            "english": "Do you ever feel overwhelmed living in a big city?",
+            "korean": "큰 도시에 살면서 가끔 정신없고 벅차게 느껴질 때 있어요?"
           }
         ]
       }
@@ -746,98 +665,82 @@
   },
   {
     "episode": 9,
-    "kicker": "SET",
-    "title": "softeners",
-    "lede": "대놓고 아니라고 하지 않으면서 아니라고 하는 방법들이에요.",
+    "kicker": "VERB",
+    "title": "turn",
+    "lede": "함께 길을 찾고, 소리를 조절하고, 차례를 나눠봐요. turn으로 상대와 작은 행동을 맞춰갈 수 있어요.",
     "blocks": [
       {
         "number": "01",
-        "label": "not exactly · 그렇다고 하긴 좀",
-        "description": "No라고 하기엔 세고, Yes는 아닐 때 그 사이를 메웁니다.",
+        "label": "turn left / right · 왼쪽 / 오른쪽으로 돌다",
+        "description": "길을 알려줄 때는 눈에 보이는 건물을 기준으로 말해봐요. 따라가기 쉽도록 한 번에 한 방향씩 알려주면 좋아요.",
         "examples": [
           {
-            "english": "It's not exactly cheap.",
-            "korean": "싸다고는 못 하지."
+            "english": "Turn left at the convenience store.",
+            "korean": "편의점에서 왼쪽으로 가세요."
           },
           {
-            "english": "Not exactly what I had in mind.",
-            "korean": "내가 생각한 건 좀 아닌데."
-          },
-          {
-            "english": "\"Is she your girlfriend?\" \"Not exactly.\"",
-            "korean": "\"여자친구야?\" \"그런 건 아니고.\""
+            "english": "We turn right at the next corner.",
+            "korean": "다음 모퉁이에서 오른쪽으로 가면 돼요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "I wouldn't say · 거기까진 아니야",
-        "description": "상대의 표현이 과할 때 한 칸 물러서게 만드는 말입니다.",
+        "label": "turn down / up · 소리를 줄이다 / 높이다",
+        "description": "같이 음악을 듣거나 영상을 볼 때 원하는 소리 크기를 말해봐요. 무엇의 소리를 조절할지 함께 말하면 분명해요.",
         "examples": [
           {
-            "english": "I wouldn't say we're friends.",
-            "korean": "친구까진 아니야."
+            "english": "Could you turn the music down a little?",
+            "korean": "음악 소리 조금만 줄여주실래요?"
           },
           {
-            "english": "I wouldn't say no.",
-            "korean": "마다할 이유는 없지."
+            "english": "Can you turn the volume up? I can't hear the video.",
+            "korean": "소리 좀 키워주실래요? 영상 소리가 안 들려요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "I guess · 뭐, 그렇지",
-        "description": "몰라서 하는 말이 아니라 흔쾌하지 않은 동의에 가깝습니다.",
+        "label": "turn on / off · 켜다 / 끄다",
+        "description": "함께 쓰는 공간에서는 먼저 괜찮은지 물어봐요. 에어컨이나 조명을 켜고 끄는 작은 부탁에도 바로 쓸 수 있어요.",
         "examples": [
           {
-            "english": "I guess that makes sense.",
-            "korean": "뭐, 말은 되네."
+            "english": "Do you mind if I turn on the air conditioner?",
+            "korean": "에어컨 켜도 괜찮을까요?"
           },
           {
-            "english": "I guess we'll find out.",
-            "korean": "뭐 곧 알게 되겠지."
-          },
-          {
-            "english": "\"You coming?\" \"I guess.\"",
-            "korean": "\"올 거야?\" \"뭐, 그러지.\""
+            "english": "Should I turn off the light?",
+            "korean": "불 끌까요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "technically · 따지고 보면",
-        "description": "맞긴 맞는데 뭔가 걸릴 때 씁니다. 뒤에 but이 올 확률이 높아요.",
+        "label": "take turns · 번갈아 하다",
+        "description": "게임을 하거나 서로 사진을 찍어줄 때 차례를 나눠봐요. 내가 할 차례라고 먼저 나서는 말도 함께 기억해둬요.",
         "examples": [
           {
-            "english": "Technically, you're right.",
-            "korean": "따지고 보면 네 말이 맞긴 해."
+            "english": "Let's take turns taking photos.",
+            "korean": "우리 번갈아 사진 찍어줘요."
           },
           {
-            "english": "It's technically not allowed.",
-            "korean": "원칙적으론 안 되는 거야."
-          },
-          {
-            "english": "Technically, I'm still on vacation.",
-            "korean": "엄밀히 말하면 나 아직 휴가 중이야."
+            "english": "It's my turn to buy coffee.",
+            "korean": "이번엔 제가 커피 살 차례예요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "if anything · 오히려",
-        "description": "예상과 반대 방향을 가리키는 말입니다.",
+        "label": "turn out · 해보니 이렇게 되다",
+        "description": "직접 해본 요리나 찍은 사진이 어땠는지 이야기해봐요. 예상과 결과를 비교하며 감상을 나누기 좋아요.",
         "examples": [
           {
-            "english": "If anything, it got worse.",
-            "korean": "오히려 더 심해졌어."
+            "english": "My first attempt at making kimchi turned out pretty well.",
+            "korean": "처음 김치 담가봤는데 꽤 잘됐어요."
           },
           {
-            "english": "If anything, I owe you.",
-            "korean": "오히려 내가 신세 진 거지."
-          },
-          {
-            "english": "He's not shy. If anything, he talks too much.",
-            "korean": "걔 안 수줍어. 오히려 말이 너무 많지."
+            "english": "How did your photos turn out?",
+            "korean": "사진 잘 나왔어요?"
           }
         ]
       }
@@ -845,90 +748,82 @@
   },
   {
     "episode": 10,
-    "kicker": "VERB",
-    "title": "go",
-    "lede": "가다 말고도 \"진행되다·어울리다·상하다\"까지 다 커버합니다.",
+    "kicker": "PHRASE",
+    "title": "thing",
+    "lede": "좋아하는 것부터 한국 생활에서 느낀 점까지. thing을 넣어 서로에게 조금 더 구체적인 질문을 해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "진행되다",
-        "description": "일이 어떻게 됐는지 물을 때의 기본 동사입니다.",
+        "label": "favorite thing about · 가장 좋은 점",
+        "description": "어떤 곳이나 활동의 좋은 점을 물어봐요. 막연히 좋은지 묻는 것보다 상대의 경험을 듣기 좋아요.",
         "examples": [
           {
-            "english": "How did it go?",
-            "korean": "어떻게 됐어?"
+            "english": "What's your favorite thing about living here?",
+            "korean": "여기 살면서 어떤 점이 제일 좋아요?"
           },
           {
-            "english": "It went well.",
-            "korean": "잘 됐어."
-          },
-          {
-            "english": "Here we go.",
-            "korean": "자, 간다 / 또 시작이네."
+            "english": "My favorite thing about this neighborhood is the park.",
+            "korean": "이 동네에서 제가 제일 좋아하는 건 공원이에요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "어서 해",
-        "description": "허락하거나 등을 떠밀 때 씁니다.",
+        "label": "my thing · 내 취향",
+        "description": "모두가 좋아하는 취미라도 내 취향과는 다를 수 있죠. not really my thing으로 가볍게 취향 차이를 말해봐요.",
         "examples": [
           {
-            "english": "Go ahead.",
-            "korean": "먼저 해 / 그렇게 해."
+            "english": "Clubbing isn't really my thing.",
+            "korean": "클럽 가는 건 제 취향은 아니에요."
           },
           {
-            "english": "Go for it.",
-            "korean": "한번 해봐."
+            "english": "Board games are more my thing.",
+            "korean": "저는 보드게임 쪽이 더 좋아요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "어울리다",
-        "description": "옷·색·음식이 서로 맞을 때 match 대신 go with를 씁니다.",
+        "label": "the thing is · 그런데 사실",
+        "description": "앞에서 다 말하지 못한 사정이 있다면 조심스럽게 덧붙여봐요. 잠깐 망설인 이유를 설명할 때도 좋아요.",
         "examples": [
           {
-            "english": "These don't go together.",
-            "korean": "이건 서로 안 어울려."
+            "english": "I'd like to join. The thing is, I finish work late.",
+            "korean": "저도 같이하고 싶어요. 그런데 퇴근이 늦어서요."
           },
           {
-            "english": "Red goes with anything.",
-            "korean": "빨강은 아무거나 다 어울려."
+            "english": "The thing is, I don't eat meat.",
+            "korean": "그런데 제가 고기를 안 먹어서요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "없어지다 · 상하다",
-        "description": "gone은 \"갔다\"가 아니라 \"사라졌다\"입니다.",
+        "label": "one thing · 한 가지",
+        "description": "한 가지만 꼽아달라고 하면 질문이 조금 더 구체적이 돼요. 내가 배운 점이나 느낀 점을 꺼낼 때도 쓸 수 있어요.",
         "examples": [
           {
-            "english": "The milk's gone bad.",
-            "korean": "우유 상했어."
+            "english": "What's one thing you'd like to try in Korea?",
+            "korean": "한국에서 꼭 해보고 싶은 거 하나만 꼽으면 뭐예요?"
           },
           {
-            "english": "It's all gone.",
-            "korean": "다 없어졌어."
-          },
-          {
-            "english": "My phone's gone.",
-            "korean": "폰이 없어졌어."
+            "english": "One thing I've learned is that it's okay to make mistakes.",
+            "korean": "제가 배운 게 하나 있다면, 실수해도 괜찮다는 거예요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "포장 · 남은 것",
-        "description": "to go는 카페에서, 그리고 남은 개수를 셀 때 씁니다.",
+        "label": "things to do · 할 만한 것들",
+        "description": "쉬는 날에 무엇을 할지 고민하는 사람에게 동네를 소개해봐요. 장소뿐 아니라 그곳에서 할 수 있는 일도 말해주면 좋아요.",
         "examples": [
           {
-            "english": "Two coffees to go.",
-            "korean": "커피 두 잔 포장이요."
+            "english": "There are lots of things to do around the river.",
+            "korean": "강 주변에 할 만한 게 많아요."
           },
           {
-            "english": "Three down, two to go.",
-            "korean": "세 개 했고 두 개 남았어."
+            "english": "Are you looking for things to do indoors?",
+            "korean": "실내에서 할 만한 걸 찾고 계세요?"
           }
         ]
       }
@@ -937,113 +832,81 @@
   {
     "episode": 11,
     "kicker": "SET",
-    "title": "woulda coulda shoulda",
-    "lede": "일어나지 않은 일을 되짚는 조동사들이에요. 셋 다 뒤에 have p.p.가 붙습니다.",
+    "title": "asks",
+    "lede": "못 알아들었을 때 다시 묻는 것도 대화의 일부예요. 짧고 편한 부탁으로 내가 이해할 수 있는 속도를 찾아봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "would have · 마음은 있었지만",
-        "description": "하려던 마음은 있었는데 실제로는 안 한 일입니다. 뒤에 but이 따라오는 경우가 많아요.",
+        "label": "could you say that again · 다시 말해주실래요?",
+        "description": "한 번에 못 들었다고 당황하지 않아도 돼요. 놓친 부분만 말하면 상대도 어디부터 다시 말할지 알 수 있어요.",
         "examples": [
           {
-            "english": "I would have said something, but it wasn't my place.",
-            "korean": "뭐라고 하려다 말았어, 내가 낄 자리가 아니라서."
+            "english": "Could you say that again, please?",
+            "korean": "다시 한번 말씀해주실래요?"
           },
           {
-            "english": "I would have come if you'd asked.",
-            "korean": "말했으면 갔지."
-          },
-          {
-            "english": "He would have made a great teacher.",
-            "korean": "그 사람 좋은 선생님이 됐을 텐데."
-          },
-          {
-            "english": "That would have been nice.",
-            "korean": "그랬으면 좋았을 텐데."
+            "english": "Could you repeat the last part?",
+            "korean": "마지막 부분만 다시 말씀해주실래요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "could have · 그럴 수도 있었는데",
-        "description": "가능했지만 일어나지 않은 일. 상대에게 쓰면 은근한 원망이 됩니다.",
+        "label": "a little more slowly · 조금 더 천천히",
+        "description": "단어는 아는데 말이 빠르면 알아듣기 어렵죠. 잠깐 속도를 맞춰달라고 편하게 부탁해봐요.",
         "examples": [
           {
-            "english": "You could have told me.",
-            "korean": "나한테 말해줄 수도 있었잖아."
+            "english": "Could you speak a little more slowly?",
+            "korean": "조금만 천천히 말씀해주실래요?"
           },
           {
-            "english": "That could have gone a lot worse.",
-            "korean": "훨씬 더 나쁘게 끝날 수도 있었어."
-          },
-          {
-            "english": "We could have been there by now.",
-            "korean": "지금쯤이면 벌써 도착했을 텐데."
-          },
-          {
-            "english": "I could have sworn I locked it.",
-            "korean": "분명히 잠갔다고 생각했는데."
+            "english": "Could we slow down a bit? I'm still learning English.",
+            "korean": "우리 조금만 천천히 이야기해도 될까요? 제가 아직 영어를 배우는 중이라서요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "should have · 그랬어야 했는데",
-        "description": "나에게 쓰면 후회, 상대에게 쓰면 잔소리가 됩니다.",
+        "label": "what do you mean by · 어떤 뜻이에요?",
+        "description": "소리는 들었지만 뜻이 낯설 때는 그 단어를 짚어서 물어봐요. 다른 말이나 예시를 부탁해도 좋아요.",
         "examples": [
           {
-            "english": "I should have known.",
-            "korean": "내가 알았어야 했는데."
+            "english": "What do you mean by 'flexible'?",
+            "korean": "flexible이 여기서는 어떤 뜻이에요?"
           },
           {
-            "english": "I shouldn't have said that.",
-            "korean": "그 말은 하지 말걸."
-          },
-          {
-            "english": "You should have seen his face.",
-            "korean": "걔 표정을 봤어야 하는 건데."
-          },
-          {
-            "english": "We should have left earlier.",
-            "korean": "더 일찍 나왔어야 했는데."
+            "english": "Could you give me an example?",
+            "korean": "예를 하나 들어주실래요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "must have · 분명 그랬을 거야",
-        "description": "과거에 대한 확신에 찬 추측입니다. 한국어 \"~했나 보다\"가 거의 다 여기예요.",
+        "label": "could you write it down · 적어주실래요?",
+        "description": "이름이나 단어가 잘 안 들리면 글자로 확인해봐요. 휴대폰 메모장을 보여주면서 부탁해도 돼요.",
         "examples": [
           {
-            "english": "You must have been exhausted.",
-            "korean": "진짜 힘들었겠다."
+            "english": "Could you write that down for me?",
+            "korean": "그거 좀 적어주실래요?"
           },
           {
-            "english": "I must have left it at home.",
-            "korean": "집에 두고 왔나 보다."
-          },
-          {
-            "english": "She must have forgotten.",
-            "korean": "걔가 깜빡했나 봐."
+            "english": "How do you spell that?",
+            "korean": "철자가 어떻게 돼요?"
           }
         ]
       },
       {
         "number": "05",
-        "label": "can't have · 그럴 리가 없어",
-        "description": "must have의 반대편입니다. mustn't have라고 하지 않는 게 포인트예요.",
+        "label": "would you mind · 괜찮으실까요?",
+        "description": "자리를 조금 옮겨달라고 하거나 대화에 끼어도 되는지 물어볼 때예요. 무엇을 원하는지 뒤에 구체적으로 붙여봐요.",
         "examples": [
           {
-            "english": "She can't have known.",
-            "korean": "걔가 알았을 리가 없어."
+            "english": "Would you mind moving over a little?",
+            "korean": "옆으로 조금만 비켜주실 수 있을까요?"
           },
           {
-            "english": "He can't have gone far.",
-            "korean": "멀리 갔을 리가 없어."
-          },
-          {
-            "english": "That can't have been easy.",
-            "korean": "쉽지 않았겠다."
+            "english": "Do you mind if I join you?",
+            "korean": "저도 같이 앉아도 될까요?"
           }
         ]
       }
@@ -1051,125 +914,82 @@
   },
   {
     "episode": 12,
-    "kicker": "SET",
-    "title": "modals",
-    "lede": "입으로 말할 때만 쓰는 조동사 표현들이에요. 시험에는 안 나오고 대화에는 매번 나옵니다.",
+    "kicker": "VERB",
+    "title": "keep",
+    "lede": "계속 해보는 일, 자꾸 잊는 일, 앞으로 이어가고 싶은 관계. keep으로 내 생활과 마음을 이야기해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "gotta · 말로 하는 must",
-        "description": "회화에서 must는 거의 안 씁니다. 대신 have got to, 줄여서 gotta를 써요.",
+        "label": "keep + -ing · 계속하다",
+        "description": "공부나 취미를 꾸준히 해보겠다는 마음을 전해봐요. 계속하고 싶은 행동을 바로 뒤에 붙이면 돼요.",
         "examples": [
           {
-            "english": "I gotta go.",
-            "korean": "나 가야 돼."
+            "english": "I want to keep practicing, even if I make mistakes.",
+            "korean": "실수하더라도 계속 연습하고 싶어요."
           },
           {
-            "english": "We've got to talk.",
-            "korean": "우리 얘기 좀 해야겠어."
-          },
-          {
-            "english": "You've got to be kidding me.",
-            "korean": "장난하는 거지."
+            "english": "Please keep talking. I'm enjoying the story.",
+            "korean": "계속 이야기해주세요. 재미있게 듣고 있어요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "'d rather · 차라리 이쪽",
-        "description": "둘 중 하나를 고르는 말인데, 부드럽게 거절할 때 더 자주 씁니다. 뒤에 동사원형이 옵니다.",
+        "label": "keep forgetting · 자꾸 잊다",
+        "description": "반복해서 깜빡하는 일을 가볍게 나눠봐요. 완벽하지 않은 내 이야기가 서로 웃으며 공감할 소재가 되기도 해요.",
         "examples": [
           {
-            "english": "I'd rather stay in tonight.",
-            "korean": "오늘은 그냥 집에 있을래."
+            "english": "I keep forgetting to bring my reusable cup.",
+            "korean": "텀블러 챙기는 걸 자꾸 잊어요."
           },
           {
-            "english": "I'd rather not talk about it.",
-            "korean": "그 얘긴 안 하고 싶어."
-          },
-          {
-            "english": "I'd rather walk than wait.",
-            "korean": "기다리느니 걸어갈래."
+            "english": "I keep forgetting new words. Does that happen to you too?",
+            "korean": "새로 배운 단어를 자꾸 잊어버려요. 그쪽도 그래요?"
           }
         ]
       },
       {
         "number": "03",
-        "label": "might as well · 어차피 이렇게 된 거",
-        "description": "최선은 아니지만 이게 낫겠다는 판단입니다. 체념이 살짝 섞여 있어요.",
+        "label": "keep ... simple · 간단하게 하다",
+        "description": "너무 복잡하게 계획할 필요가 없을 때 함께 부담을 줄여봐요. 내 생활 방식을 말할 때도 자연스러워요.",
         "examples": [
           {
-            "english": "We might as well walk.",
-            "korean": "그냥 걸어가지 뭐."
+            "english": "Let's keep the plan simple. Lunch and a walk?",
+            "korean": "간단하게 해요. 점심 먹고 산책할까요?"
           },
           {
-            "english": "Might as well get it over with.",
-            "korean": "이왕 할 거 빨리 끝내버리자."
-          },
-          {
-            "english": "You might as well ask.",
-            "korean": "물어나 보지 그래."
+            "english": "I keep my breakfasts simple. Usually toast and eggs.",
+            "korean": "아침은 간단하게 먹어요. 보통 토스트랑 달걀이요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "be supposed to · 원래 그러기로 한",
-        "description": "규칙이나 약속으로 정해진 것. 안 지켜졌을 때 특히 자주 등장합니다.",
+        "label": "keep in touch · 연락하고 지내다",
+        "description": "즐겁게 대화한 사람과 헤어질 때 연락을 이어가고 싶다고 말해봐요. 서로 떨어져 지내게 될 때도 잘 어울려요.",
         "examples": [
           {
-            "english": "You were supposed to call me.",
-            "korean": "너 나한테 전화하기로 했잖아."
+            "english": "Let's keep in touch. Are you on Instagram?",
+            "korean": "우리 연락하고 지내요. 인스타그램 하세요?"
           },
           {
-            "english": "It's not supposed to rain today.",
-            "korean": "오늘 비 안 온다고 했는데."
-          },
-          {
-            "english": "I'm supposed to be working.",
-            "korean": "나 원래 일하고 있어야 하는데."
-          },
-          {
-            "english": "What's that supposed to mean?",
-            "korean": "그게 무슨 뜻인데?"
+            "english": "I'd like to keep in touch after you move.",
+            "korean": "이사 가신 뒤에도 연락하고 지내고 싶어요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "used to · 지금은 아닌 과거",
-        "description": "would와 달리 상태에도 씁니다. be used to(익숙하다)와는 완전히 다른 말이에요.",
+        "label": "keep you updated · 소식을 계속 알려주다",
+        "description": "아직 장소나 일정이 정해지지 않았다면 진행되는 대로 알려주겠다고 해요. 상대의 소식이 궁금할 때도 부탁해봐요.",
         "examples": [
           {
-            "english": "I used to live around here.",
-            "korean": "나 예전에 이 근처 살았어."
+            "english": "I'll keep you updated about the meetup.",
+            "korean": "모임 소식은 계속 알려드릴게요."
           },
           {
-            "english": "We used to be close.",
-            "korean": "우리 예전엔 가까웠어."
-          },
-          {
-            "english": "I'm not used to it yet.",
-            "korean": "아직 익숙하지가 않아."
-          }
-        ]
-      },
-      {
-        "number": "06",
-        "label": "I'd say · 단정 대신 얹는 쿠션",
-        "description": "would의 그 거리감입니다. 확신이 없어서가 아니라 세게 말하지 않으려고 붙여요.",
-        "examples": [
-          {
-            "english": "I'd say it's about a twenty-minute walk.",
-            "korean": "걸어서 한 20분쯤 될걸."
-          },
-          {
-            "english": "I'd say we're done here.",
-            "korean": "이 정도면 끝난 것 같은데."
-          },
-          {
-            "english": "I'd say give it a week.",
-            "korean": "한 일주일 정도 두고 봐."
+            "english": "Keep me posted on how your classes are going.",
+            "korean": "수업은 어떻게 돼가는지 종종 알려주세요."
           }
         ]
       }
@@ -1178,89 +998,81 @@
   {
     "episode": 13,
     "kicker": "VERB",
-    "title": "come",
-    "lede": "오다 말고도 \"떠오르다·마주치다·결국 ~로 귀결되다\"까지 씁니다.",
+    "title": "hold",
+    "lede": "잠깐 기다려달라고 하고, 문을 잡아주고, 짐을 들어줘요. hold로 함께 있는 순간에 필요한 말을 해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "come on · 설마 / 어서",
-        "description": "억양에 따라 재촉도 되고 못 믿겠다는 반응도 됩니다.",
+        "label": "hold on · 잠깐만요",
+        "description": "확인하거나 무언가 꺼낼 시간이 필요하면 잠깐 기다려달라고 해요. 이어서 무엇을 할지 알려주면 상대도 편하게 기다릴 수 있어요.",
         "examples": [
           {
-            "english": "Come on, you can do it.",
-            "korean": "야, 할 수 있어."
+            "english": "Hold on a second. Let me check the map.",
+            "korean": "잠깐만요. 지도 좀 볼게요."
           },
           {
-            "english": "Oh, come on.",
-            "korean": "에이, 설마."
-          },
-          {
-            "english": "Come on in.",
-            "korean": "어서 들어와."
+            "english": "Hold on, I'll get my glasses.",
+            "korean": "잠시만요, 안경 좀 가져올게요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "come up with · 생각해내다",
-        "description": "없던 아이디어를 만들어 내는 순간을 말해요. 계획·이름·핑계가 모두 목적어가 됩니다.",
+        "label": "hold this · 이거 들고 있다",
+        "description": "손이 모자랄 때 잠깐 들어달라고 부탁해봐요. 상대가 짐을 들고 애쓰고 있다면 먼저 도와줘도 좋고요.",
         "examples": [
           {
-            "english": "She came up with a better name.",
-            "korean": "그 사람이 더 나은 이름을 생각해 냈어."
+            "english": "Could you hold my coffee for a second?",
+            "korean": "제 커피 잠깐만 들어주실래요?"
           },
           {
-            "english": "I couldn't come up with anything.",
-            "korean": "아무것도 떠오르지 않았어."
-          },
-          {
-            "english": "Who came up with that?",
-            "korean": "그거 누가 낸 아이디어야?"
+            "english": "I can hold your bag while you tie your shoes.",
+            "korean": "신발 끈 묶는 동안 제가 가방 들어드릴게요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "come across · 마주치다 · ~처럼 보이다",
-        "description": "우연히 발견하는 것과, 남에게 그렇게 비치는 것. 두 뜻 다 자주 씁니다.",
+        "label": "hold the door · 문을 잡아주다",
+        "description": "뒤에 오는 사람을 위해 문을 잡아주거나, 도움을 받았을 때 고맙다고 해요. 짧은 말과 행동만으로도 마음을 전할 수 있어요.",
         "examples": [
           {
-            "english": "I came across an old photo.",
-            "korean": "옛날 사진을 우연히 발견했어."
+            "english": "I'll hold the door for you.",
+            "korean": "제가 문 잡고 있을게요."
           },
           {
-            "english": "He comes across as cold.",
-            "korean": "걘 차가운 사람처럼 보여."
+            "english": "Thanks for holding the door.",
+            "korean": "문 잡아주셔서 고마워요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "come down to · 결국 ~의 문제다",
-        "description": "여러 이유를 걷어내고 핵심 하나만 남길 때 씁니다.",
+        "label": "hold off on · 잠깐 미루다",
+        "description": "함께 주문하거나 예약하기 전에 조금 더 기다려야 할 때예요. 왜 기다리자는 건지 덧붙여봐요.",
         "examples": [
           {
-            "english": "It comes down to money.",
-            "korean": "결국 돈 문제야."
+            "english": "Can we hold off on ordering? My friend's almost here.",
+            "korean": "주문 조금만 기다려도 될까요? 친구가 거의 다 왔어요."
           },
           {
-            "english": "It all comes down to this.",
-            "korean": "결국 이거 하나로 갈려."
+            "english": "Let's hold off on booking until we know the dates.",
+            "korean": "날짜가 정해질 때까지 예약은 잠깐 미뤄요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "come around · 마음을 바꾸다 · 들르다",
-        "description": "반대하던 사람이 결국 받아들인다는 뜻으로 자주 씁니다.",
+        "label": "hold a class / event · 수업이나 행사를 열다",
+        "description": "모임이나 동네 행사가 어디서 열리는지 알려줘요. 날짜나 장소를 물어보며 관심을 표현해도 좋아요.",
         "examples": [
           {
-            "english": "He'll come around.",
-            "korean": "걔도 결국 마음 바뀔 거야."
+            "english": "We hold a language exchange here every Thursday.",
+            "korean": "저희는 매주 목요일 여기서 언어 교환 모임을 해요."
           },
           {
-            "english": "Come around whenever.",
-            "korean": "아무 때나 들러."
+            "english": "Where do you usually hold your workshops?",
+            "korean": "워크숍은 보통 어디에서 하세요?"
           }
         ]
       }
@@ -1269,85 +1081,81 @@
   {
     "episode": 14,
     "kicker": "SET",
-    "title": "openers",
-    "lede": "말을 꺼낼 때 앞에 까는 말들이에요. 바로 본론으로 들어가면 급하게 들립니다.",
+    "title": "small talk",
+    "lede": "어디서 자랐는지, 한국 생활은 어떤지, 주말엔 뭘 했는지. 서로의 일상을 조금씩 알아가는 질문을 모았어요.",
     "blocks": [
       {
         "number": "01",
-        "label": "by the way · 그나저나",
-        "description": "화제를 슬쩍 바꿀 때. 문장 끝에 붙여도 됩니다.",
+        "label": "where did you grow up · 어디서 자랐어요?",
+        "description": "고향 이야기를 나눌 때는 내 이야기부터 건네도 좋아요. 상대가 한국에서 자랐을 가능성도 열어두고 편하게 물어봐요.",
         "examples": [
           {
-            "english": "By the way, did you eat?",
-            "korean": "아 참, 밥은 먹었어?"
+            "english": "Where did you grow up?",
+            "korean": "어디에서 자라셨어요?"
           },
           {
-            "english": "Nice shirt, by the way.",
-            "korean": "그나저나 셔츠 좋다."
+            "english": "I grew up in Busan, but I live in Seoul now.",
+            "korean": "저는 부산에서 자랐는데 지금은 서울에 살아요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "come to think of it · 그러고 보니",
-        "description": "말하다가 방금 떠오른 것을 꺼낼 때 씁니다.",
+        "label": "how long have you lived here · 여기 산 지 얼마나 됐어요?",
+        "description": "상대가 한국에 산다고 이야기했다면 얼마나 됐는지 물어봐요. 내가 지금 동네에 살게 된 이야기도 나눠보세요.",
         "examples": [
           {
-            "english": "Come to think of it, he never answered.",
-            "korean": "생각해보니 걔 대답을 안 했네."
+            "english": "How long have you lived in Korea?",
+            "korean": "한국에 사신 지 얼마나 됐어요?"
           },
           {
-            "english": "Come to think of it, I've been here before.",
-            "korean": "그러고 보니 나 여기 와본 적 있어."
+            "english": "I've lived in this neighborhood for about three years.",
+            "korean": "저는 이 동네에 산 지 3년 정도 됐어요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "speaking of which · 말 나온 김에",
-        "description": "상대가 방금 꺼낸 주제를 받아서 이어갈 때 씁니다.",
+        "label": "how are you finding · 지내보니 어때요?",
+        "description": "한국 생활이 어떤지 상대의 경험을 들어봐요. 좋을 거라고 미리 정하기보다 편하게 느낀 점을 말할 수 있게 물어봐요.",
         "examples": [
           {
-            "english": "Speaking of which, did you call him?",
-            "korean": "말 나온 김에, 걔한테 전화했어?"
+            "english": "How are you finding life in Korea so far?",
+            "korean": "지금까지 한국에서 지내보니 어떠세요?"
           },
           {
-            "english": "Speaking of food, I'm starving.",
-            "korean": "음식 얘기 나와서 말인데, 나 배고파 죽겠어."
+            "english": "Is there anything you find difficult about living here?",
+            "korean": "여기 살면서 어려운 점도 있어요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "long story short · 길게 말할 것 없이",
-        "description": "긴 사연을 접고 결론만 던지는 말입니다.",
+        "label": "getting used to · 익숙해지고 있다",
+        "description": "새로운 생활에 조금씩 적응하는 이야기를 해봐요. 상대의 한국 생활과 나의 영어 공부에도 이어 붙일 수 있어요.",
         "examples": [
           {
-            "english": "Long story short, we broke up.",
-            "korean": "길게 얘기할 것 없이, 우리 헤어졌어."
+            "english": "Are you getting used to living in Korea?",
+            "korean": "한국 생활에는 좀 익숙해지고 계세요?"
           },
           {
-            "english": "It's a long story.",
-            "korean": "얘기하자면 길어."
+            "english": "I'm getting used to speaking English with new people.",
+            "korean": "처음 만난 사람들과 영어로 말하는 게 조금씩 익숙해지고 있어요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "actually · 사실은 / 의외로",
-        "description": "사실 정정보다 \"생각보다 괜찮네\"의 뜻으로 더 많이 씁니다.",
+        "label": "how was your weekend · 주말 잘 보냈어요?",
+        "description": "주말 이야기는 길게 답하지 않아도 괜찮아요. 집에서 쉬었다는 평범한 대답도 충분한 대화 소재예요.",
         "examples": [
           {
-            "english": "Actually, I was just about to call you.",
-            "korean": "마침 너한테 전화하려던 참이었어."
+            "english": "How was your weekend? Did you do anything fun?",
+            "korean": "주말 잘 보내셨어요? 재미있는 거 하셨어요?"
           },
           {
-            "english": "It's actually pretty good.",
-            "korean": "이거 은근히 괜찮은데."
-          },
-          {
-            "english": "Actually, never mind.",
-            "korean": "아, 아니다."
+            "english": "I mostly stayed home and caught up on sleep.",
+            "korean": "저는 거의 집에 있으면서 밀린 잠을 잤어요."
           }
         ]
       }
@@ -1356,85 +1164,81 @@
   {
     "episode": 15,
     "kicker": "VERB",
-    "title": "put",
-    "lede": "놓는다는 뜻 말고 \"참다·미루다·표현하다\"로 쓰는 자리가 훨씬 많아요.",
+    "title": "work",
+    "lede": "직함을 길게 설명하지 않아도 괜찮아요. 어떤 일을 하는지부터 퇴근 후 생활까지 편하게 나눠봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "put up with · 참고 견디다",
-        "description": "싫은 걸 그만두지 못하고 계속 견딘다는 뜻입니다.",
+        "label": "work in / as · 어떤 일을 하다",
+        "description": "분야나 직업을 짧게 말하고 상대의 이야기도 들어봐요. 회사 이름을 몰라도 서로 하는 일을 알아갈 수 있어요.",
         "examples": [
           {
-            "english": "I don't know how you put up with him.",
-            "korean": "넌 걜 어떻게 참고 사냐."
+            "english": "I work in design. What about you?",
+            "korean": "저는 디자인 일을 해요. 어떤 일 하세요?"
           },
           {
-            "english": "I've put up with enough.",
-            "korean": "참을 만큼 참았어."
+            "english": "Do you work here, or are you studying?",
+            "korean": "여기서 일하고 계세요, 아니면 공부하고 계세요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "put off · 미루다",
-        "description": "delay보다 훨씬 일상적입니다.",
+        "label": "work from home · 재택근무하다",
+        "description": "어디서 일하는지 이야기하면 출퇴근이나 동네 이야기로도 이어져요. 내 근무 방식부터 가볍게 말해봐요.",
         "examples": [
           {
-            "english": "Don't put it off.",
-            "korean": "미루지 마."
+            "english": "I work from home a few days a week.",
+            "korean": "저는 일주일에 며칠은 집에서 일해요."
           },
           {
-            "english": "We had to put it off.",
-            "korean": "일정을 미뤄야 했어."
+            "english": "Do you prefer working from home or going to the office?",
+            "korean": "재택근무랑 사무실 출근 중에 뭐가 더 좋아요?"
           }
         ]
       },
       {
         "number": "03",
-        "label": "put it · 표현하다",
-        "description": "말을 어떻게 고를지 고민할 때 나오는 표현입니다.",
+        "label": "work on · 하고 있다 / 연습하다",
+        "description": "요즘 시간을 들이고 있는 일을 나눠봐요. 아직 끝나지 않은 프로젝트나 연습 중인 것에도 쓸 수 있어요.",
         "examples": [
           {
-            "english": "How do I put this?",
-            "korean": "이걸 어떻게 말해야 하나."
+            "english": "I'm working on a small app with a friend.",
+            "korean": "친구랑 작은 앱을 만들고 있어요."
           },
           {
-            "english": "Let me put it this way.",
-            "korean": "이렇게 말해볼게."
-          },
-          {
-            "english": "Well put.",
-            "korean": "말 잘했다."
+            "english": "I'm working on my English pronunciation.",
+            "korean": "영어 발음을 연습하고 있어요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "put together · 만들어 내다",
-        "description": "흩어진 것을 모아 하나로 만든다는 뜻입니다.",
+        "label": "work for you · 괜찮다 / 가능하다",
+        "description": "시간이나 장소를 제안한 뒤 상대에게 괜찮은지 확인해봐요. 내 일정에도 맞는다고 답할 수 있어요.",
         "examples": [
           {
-            "english": "I put together a list.",
-            "korean": "목록을 하나 만들었어."
+            "english": "Does six thirty work for you?",
+            "korean": "6시 반 괜찮으세요?"
           },
           {
-            "english": "It took all night to put this together.",
-            "korean": "이거 만드는 데 밤을 샜어."
+            "english": "That works for me. Let's meet there.",
+            "korean": "저는 괜찮아요. 거기서 만나요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "put down · 내려놓다 · 깎아내리다",
-        "description": "물건에 쓰면 내려놓다, 사람에게 쓰면 무시하다가 됩니다.",
+        "label": "work out · 운동하다",
+        "description": "일 이야기에서 평소 생활로 넘어가고 싶다면 운동 이야기를 해봐요. 헬스장에 다니지 않아도 집에서 하는 운동을 말할 수 있어요.",
         "examples": [
           {
-            "english": "Put your phone down.",
-            "korean": "폰 좀 내려놔."
+            "english": "Do you usually work out before or after work?",
+            "korean": "운동은 보통 출근 전에 하세요, 퇴근 후에 하세요?"
           },
           {
-            "english": "Don't put yourself down.",
-            "korean": "자기 자신을 깎아내리지 마."
+            "english": "I work out at home when I don't have much time.",
+            "korean": "시간이 별로 없으면 집에서 운동해요."
           }
         ]
       }
@@ -1443,89 +1247,81 @@
   {
     "episode": 16,
     "kicker": "PHRASE",
-    "title": "way",
-    "lede": "길이라는 뜻보다 \"방식·정도\"로 쓰이는 자리가 훨씬 많아요.",
+    "title": "off",
+    "lede": "쉬는 날을 맞추고, 퇴근 시간을 묻고, 버스에서 내릴 곳을 알려줘요. off가 들어가는 생활 속 문장을 익혀봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "no way · 말도 안 돼",
-        "description": "놀람과 강한 부정을 동시에 담습니다.",
+        "label": "day off · 쉬는 날",
+        "description": "서로 언제 쉬는지 알면 다음 만남을 잡기 편해요. 휴가를 냈거나 쉬는 날의 습관을 이야기해봐요.",
         "examples": [
           {
-            "english": "No way!",
-            "korean": "헐, 말도 안 돼!"
+            "english": "I have Friday off this week.",
+            "korean": "이번 주에는 금요일에 쉬어요."
           },
           {
-            "english": "There's no way.",
-            "korean": "그럴 리가 없어."
-          },
-          {
-            "english": "No way am I doing that.",
-            "korean": "내가 그걸 할 리가 없지."
+            "english": "What do you usually do on your days off?",
+            "korean": "쉬는 날에는 보통 뭐 하세요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "on my way · 가는 중",
-        "description": "늦었을 때 보내는 메시지의 90%가 이 표현입니다.",
+        "label": "get off work · 퇴근하다",
+        "description": "퇴근하고 만날 수 있는지 이야기할 때 시간을 물어봐요. 퇴근 후에 합류하겠다는 말도 함께 기억해둬요.",
         "examples": [
           {
-            "english": "I'm on my way.",
-            "korean": "지금 가는 중이야."
+            "english": "What time do you get off work?",
+            "korean": "몇 시에 퇴근하세요?"
           },
           {
-            "english": "On my way home.",
-            "korean": "집 가는 길이야."
+            "english": "I'll join you after I get off work.",
+            "korean": "퇴근하고 합류할게요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "that's the way · 원래 그런 거야",
-        "description": "바꿀 수 없는 걸 받아들일 때 씁니다.",
+        "label": "take off · 벗다",
+        "description": "집이나 신발을 벗는 식당에 함께 갔다면 편하게 알려줘요. 상대가 옷을 둘 곳이 필요한지도 살펴봐요.",
         "examples": [
           {
-            "english": "That's just the way it is.",
-            "korean": "원래 그런 거야."
+            "english": "We take our shoes off here.",
+            "korean": "여기서는 신발을 벗어요."
           },
           {
-            "english": "That's the way he is.",
-            "korean": "걔가 원래 그래."
+            "english": "You can take your jacket off. It's warm inside.",
+            "korean": "안이 따뜻하니까 겉옷 벗으셔도 돼요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "way + 비교급 · 훨씬",
-        "description": "much보다 세고 훨씬 구어적입니다. way too처럼 형용사 앞에도 붙어요.",
+        "label": "get off · 내리다",
+        "description": "버스나 지하철에서 함께 내릴 곳을 확인해봐요. 낯선 노선이라면 내가 알려주겠다고 해도 좋아요.",
         "examples": [
           {
-            "english": "It's way better.",
-            "korean": "훨씬 낫네."
+            "english": "We get off at the next stop.",
+            "korean": "우리 다음 정류장에서 내리면 돼요."
           },
           {
-            "english": "That's way too expensive.",
-            "korean": "그건 너무 비싸."
-          },
-          {
-            "english": "You're way off.",
-            "korean": "한참 빗나갔어."
+            "english": "I'll let you know when to get off.",
+            "korean": "내릴 때 제가 알려드릴게요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "way to go · 잘했어",
-        "description": "칭찬인데, 비꼬는 자리에도 그대로 씁니다.",
+        "label": "a bit off · 컨디션이 좀 별로다",
+        "description": "아주 아픈 건 아니지만 평소 같지 않은 날이 있죠. 기운이 없거나 집중이 잘 안 되는 상태를 가볍게 말해봐요.",
         "examples": [
           {
-            "english": "Way to go!",
-            "korean": "잘했어!"
+            "english": "I'm feeling a bit off today. I might head home early.",
+            "korean": "오늘 컨디션이 좀 별로라 일찍 들어갈 수도 있어요."
           },
           {
-            "english": "Way to ruin it.",
-            "korean": "아주 잘도 망쳐놨네."
+            "english": "My sleep schedule is a bit off these days.",
+            "korean": "요즘 수면 패턴이 좀 흐트러졌어요."
           }
         ]
       }
@@ -1534,70 +1330,81 @@
   {
     "episode": 17,
     "kicker": "SET",
-    "title": "refusals",
-    "lede": "No 한마디로 끝내면 세게 들려요. 원어민은 거의 다 돌려서 거절합니다.",
+    "title": "time",
+    "lede": "요즘 자주 하는 일과 가끔 하는 일을 나눠봐요. 시간을 나타내는 짧은 말이 붙으면 내 생활이 더 구체적으로 전해져요.",
     "blocks": [
       {
         "number": "01",
-        "label": "I'll pass · 난 안 할래",
-        "description": "카드 게임에서 온 말입니다. 가볍게 빠질 때 씁니다.",
+        "label": "these days · 요즘",
+        "description": "최근에 달라진 습관이나 관심사를 이야기해봐요. 상대가 요즘 무엇에 시간을 쓰는지 물어봐도 좋아요.",
         "examples": [
           {
-            "english": "I think I'll pass.",
-            "korean": "난 안 할래."
+            "english": "I'm cooking at home more these days.",
+            "korean": "요즘은 집에서 요리를 더 자주 해요."
           },
           {
-            "english": "Pass.",
-            "korean": "난 됐어."
+            "english": "What are you watching these days?",
+            "korean": "요즘 뭐 보고 계세요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "rain check · 다음으로 미루자",
-        "description": "거절이지만 다음을 약속하는 형태라 부담이 적습니다.",
+        "label": "every now and then · 가끔",
+        "description": "자주 하지는 않지만 가끔 즐기는 일을 말해봐요. 매일의 일상이 아니어도 내 취향을 보여줄 수 있어요.",
         "examples": [
           {
-            "english": "Can I take a rain check?",
-            "korean": "다음으로 미뤄도 될까?"
+            "english": "I go to art exhibitions every now and then.",
+            "korean": "저는 가끔 전시회 보러 가요."
           },
           {
-            "english": "Maybe some other time.",
-            "korean": "다음에 하자."
+            "english": "Do you go back to your hometown once in a while?",
+            "korean": "가끔 고향에 가세요?"
           }
         ]
       },
       {
         "number": "03",
-        "label": "I'd rather not · 안 하고 싶어",
-        "description": "이유를 대지 않고도 거절이 됩니다. 뒤를 안 붙여도 완성이에요.",
+        "label": "used to · 예전에는",
+        "description": "지금과 달라진 생활을 이야기해봐요. 예전에 즐기던 취미를 물으면 새로운 공통점을 찾을 수도 있어요.",
         "examples": [
           {
-            "english": "I'd rather not.",
-            "korean": "별로 하고 싶지 않아."
+            "english": "I used to eat out every day, but now I cook more.",
+            "korean": "예전에는 매일 사 먹었는데 지금은 요리를 더 자주 해요."
           },
           {
-            "english": "I'd rather not say.",
-            "korean": "말 안 할래."
+            "english": "Did you use to play any sports?",
+            "korean": "예전에 하던 운동 있어요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "I'll see what I can do · 어떻게든 해볼게",
-        "description": "확답을 피하면서 성의는 보이는 말입니다. 사실상 반쯤 거절이에요.",
+        "label": "for now · 일단은",
+        "description": "아직 다음 계획까지 정하지 않아도 돼요. 지금은 어떻게 하고 싶은지 말하고 나중의 가능성은 열어둬요.",
         "examples": [
           {
-            "english": "I'll see what I can do.",
-            "korean": "어떻게든 해볼게."
+            "english": "I'm just looking around for now.",
+            "korean": "일단은 그냥 둘러보고 있어요."
           },
           {
-            "english": "No promises, but I'll try.",
-            "korean": "장담은 못 하는데, 해볼게."
+            "english": "Let's stay here for now and decide later.",
+            "korean": "일단 여기 있다가 나중에 정해요."
+          }
+        ]
+      },
+      {
+        "number": "05",
+        "label": "in a bit · 조금 이따가",
+        "description": "곧 하겠지만 정확한 시간까지 정할 필요는 없을 때예요. 바로 갈 건지 조금 더 있을 건지 물어봐요.",
+        "examples": [
+          {
+            "english": "I'll send you the photos in a bit.",
+            "korean": "조금 이따 사진 보내드릴게요."
           },
           {
-            "english": "Let me get back to you.",
-            "korean": "좀 있다 다시 얘기할게."
+            "english": "Do you want to leave now or in a bit?",
+            "korean": "지금 나갈까요, 조금 이따 나갈까요?"
           }
         ]
       }
@@ -1606,89 +1413,81 @@
   {
     "episode": 18,
     "kicker": "VERB",
-    "title": "run",
-    "lede": "달린다는 뜻은 오히려 드물어요. 마주치고, 떨어지고, 늦고, 운영합니다.",
+    "title": "break",
+    "lede": "잠깐 쉬자고 하고, 통화가 끊긴다고 알려줘요. break로 대화와 일상 사이에 작은 쉼표를 넣어봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "run into · 마주치다",
-        "description": "사람과 우연히 만나거나, 문제와 맞닥뜨릴 때 씁니다.",
+        "label": "take a break · 잠깐 쉬다",
+        "description": "오래 걷거나 함께 무언가 하다가 쉬고 싶으면 먼저 제안해봐요. 어디서 쉴지도 보태면 바로 움직이기 좋아요.",
         "examples": [
           {
-            "english": "I ran into Jake at the store.",
-            "korean": "가게에서 제이크랑 마주쳤어."
+            "english": "Shall we take a break at that cafe?",
+            "korean": "저 카페에서 잠깐 쉬어갈까요?"
           },
           {
-            "english": "We ran into a problem.",
-            "korean": "문제가 좀 생겼어."
+            "english": "I need a quick break. I've been sitting all day.",
+            "korean": "잠깐 쉬어야겠어요. 하루 종일 앉아 있었네요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "run out · 다 떨어지다",
-        "description": "물건도 시간도 run out 합니다. of 뒤에 떨어진 것을 붙여요.",
+        "label": "lunch break · 점심시간",
+        "description": "일하는 중 잠깐 만날 수 있는 시간을 이야기해봐요. 얼마나 여유가 있는지 알려주면 상대도 계획하기 편해요.",
         "examples": [
           {
-            "english": "We're running out of time.",
-            "korean": "시간이 없어."
+            "english": "I'm on my lunch break. Do you have time for a coffee?",
+            "korean": "지금 점심시간인데 커피 마실 시간 있어요?"
           },
           {
-            "english": "I ran out of milk.",
-            "korean": "우유가 떨어졌어."
-          },
-          {
-            "english": "It ran out.",
-            "korean": "다 썼어."
+            "english": "My lunch break ends at one.",
+            "korean": "제 점심시간은 한 시까지예요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "run late · 늦다",
-        "description": "be late보다 \"늦어지는 중\"이라는 느낌이 강합니다.",
+        "label": "take a break from · 잠시 거리를 두다",
+        "description": "휴대폰이나 일처럼 잠깐 쉬고 싶은 대상도 말할 수 있어요. 계속하던 습관을 잠시 멈추는 이야기예요.",
         "examples": [
           {
-            "english": "I'm running late.",
-            "korean": "나 좀 늦을 것 같아."
+            "english": "I'm taking a break from social media.",
+            "korean": "요즘 SNS를 잠깐 쉬고 있어요."
           },
           {
-            "english": "The train's running late.",
-            "korean": "기차가 지연되고 있어."
+            "english": "Let's take a break from our screens and go outside.",
+            "korean": "화면은 잠깐 그만 보고 밖에 나가요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "run by · 의견을 물어보다",
-        "description": "결정하기 전에 상대에게 한번 확인받는다는 뜻입니다.",
+        "label": "you're breaking up · 소리가 끊겨요",
+        "description": "통화 중 소리가 띄엄띄엄 들릴 때 알려줘요. 연결 문제라는 걸 말하면 상대도 자리를 옮기거나 다시 전화할 수 있어요.",
         "examples": [
           {
-            "english": "Can I run something by you?",
-            "korean": "뭐 하나 물어봐도 될까?"
+            "english": "You're breaking up. I missed what you said.",
+            "korean": "소리가 끊겨서 말씀하신 걸 못 들었어요."
           },
           {
-            "english": "Run it by me again.",
-            "korean": "다시 한번 설명해줘."
+            "english": "Am I breaking up? I'll move closer to the router.",
+            "korean": "제 목소리 끊겨요? 공유기 가까이로 가볼게요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "run · 운영하다 · 내력이다",
-        "description": "가게나 조직을 굴린다는 뜻, 그리고 집안 내력을 말할 때 씁니다.",
+        "label": "break into smaller steps · 작은 단계로 나누다",
+        "description": "레시피나 게임 규칙이 복잡하면 하나씩 알려달라고 해봐요. 내가 설명할 때도 순서를 나누면 서로 이해하기 쉬워요.",
         "examples": [
           {
-            "english": "She runs a small shop.",
-            "korean": "걔는 작은 가게를 운영해."
+            "english": "Could you break that down into smaller steps?",
+            "korean": "그걸 작은 단계로 나눠서 설명해주실래요?"
           },
           {
-            "english": "Who's running this?",
-            "korean": "이거 누가 맡고 있어?"
-          },
-          {
-            "english": "It runs in the family.",
-            "korean": "그거 집안 내력이야."
+            "english": "Let's break the recipe down and do one step at a time.",
+            "korean": "레시피를 나눠서 한 단계씩 해봐요."
           }
         ]
       }
@@ -1697,89 +1496,81 @@
   {
     "episode": 19,
     "kicker": "PHRASE",
-    "title": "up",
-    "lede": "위라는 뜻 말고, 대화에서 가장 자주 튀어나오는 짧은 말이에요.",
+    "title": "point",
+    "lede": "상대의 말에서 공감하는 부분을 짚고, 내가 하려던 말을 풀어봐요. point는 의견을 나눌 때도, 장소를 가리킬 때도 쓸 수 있어요.",
     "blocks": [
       {
         "number": "01",
-        "label": "what's up · 무슨 일이야 / 잘 지내",
-        "description": "인사이기도 하고 진짜 질문이기도 합니다. 억양으로 갈려요.",
+        "label": "good point · 그러네요",
+        "description": "미처 생각하지 못한 점을 상대가 말해줬다면 인정해줘요. 무엇을 새로 생각했는지 덧붙이면 대화가 이어져요.",
         "examples": [
           {
-            "english": "What's up?",
-            "korean": "뭐 해? / 무슨 일이야?"
+            "english": "Good point. I hadn't thought of that.",
+            "korean": "그러네요. 그건 생각 못 했어요."
           },
           {
-            "english": "What's up with him?",
-            "korean": "걔 왜 저래?"
-          },
-          {
-            "english": "Not much, you?",
-            "korean": "별일 없어, 너는?"
+            "english": "Good point. We should check the weather first.",
+            "korean": "맞네요. 날씨부터 확인해야겠어요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "up to you · 네가 정해",
-        "description": "결정권이 누구에게 있는지를 말합니다.",
+        "label": "have a point · 일리가 있다",
+        "description": "상대의 의견에 설득력 있는 부분이 있다면 말해봐요. 모든 것에 동의하지 않아도 그 부분은 인정할 수 있어요.",
         "examples": [
           {
-            "english": "It's up to you.",
-            "korean": "네가 정해."
+            "english": "You have a point. The subway would be cheaper.",
+            "korean": "일리 있네요. 지하철이 더 싸겠어요."
           },
           {
-            "english": "It's not up to me.",
-            "korean": "내가 결정할 일이 아니야."
+            "english": "You have a point about going early. It gets crowded.",
+            "korean": "일찍 가자는 말이 맞네요. 거기 사람이 많아지니까요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "up for it · 할 마음이 있다",
-        "description": "제안을 받았을 때 의향을 묻고 답하는 자리입니다.",
+        "label": "see your point · 무슨 말인지 이해하다",
+        "description": "상대가 왜 그렇게 생각하는지 이해했다고 말해줘요. 취향이나 상황 차이를 이야기할 때 대화를 부드럽게 이어갈 수 있어요.",
         "examples": [
           {
-            "english": "Are you up for it?",
-            "korean": "할 생각 있어?"
+            "english": "I see your point. It's a long way to go for dinner.",
+            "korean": "무슨 말인지 알겠어요. 저녁 먹으러 가기엔 멀긴 하네요."
           },
           {
-            "english": "I'm up for anything.",
-            "korean": "난 뭐든 좋아."
-          },
-          {
-            "english": "I'm not up for it tonight.",
-            "korean": "오늘 밤은 내키지 않아."
+            "english": "I can see your point about living closer to work.",
+            "korean": "직장 가까이 사는 게 좋다는 말은 이해돼요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "up to something · 뭔가 꾸미다",
-        "description": "수상한 낌새를 말할 때, 그리고 안부를 물을 때 씁니다.",
+        "label": "the point is · 하고 싶은 말은",
+        "description": "내 설명이 길어졌다면 가장 전하고 싶은 말을 정리해봐요. 상대를 재촉하기보다 내 생각을 분명하게 하는 데 써봐요.",
         "examples": [
           {
-            "english": "He's up to something.",
-            "korean": "걔 뭔가 꾸미고 있어."
+            "english": "My point is, you don't need perfect English to have a conversation.",
+            "korean": "제가 하고 싶은 말은, 영어가 완벽하지 않아도 대화할 수 있다는 거예요."
+          },
+          {
+            "english": "The point is to enjoy it, not to be the best.",
+            "korean": "제일 잘하는 것보다 즐기는 게 중요한 거죠."
           }
         ]
       },
       {
         "number": "05",
-        "label": "동사 + up · 끝까지",
-        "description": "동사 뒤에 붙으면 \"완전히·끝까지\"라는 느낌을 더합니다.",
+        "label": "point out · 가리켜 알려주다",
+        "description": "지도나 메뉴를 함께 보며 원하는 것을 가리켜달라고 해봐요. 말로 설명하기 어려운 이름도 쉽게 확인할 수 있어요.",
         "examples": [
           {
-            "english": "Hurry up.",
-            "korean": "서둘러."
+            "english": "Could you point it out on the map?",
+            "korean": "지도에서 어디인지 짚어주실래요?"
           },
           {
-            "english": "Speak up.",
-            "korean": "좀 크게 말해줘."
-          },
-          {
-            "english": "Finish up.",
-            "korean": "마무리해."
+            "english": "I'll point out a few dishes you might like.",
+            "korean": "좋아하실 만한 메뉴 몇 개를 짚어드릴게요."
           }
         ]
       }
@@ -1788,89 +1579,81 @@
   {
     "episode": 20,
     "kicker": "SET",
-    "title": "feelings",
-    "lede": "감정을 tired, angry 같은 교과서 단어 말고 이렇게 말합니다.",
+    "title": "apologies",
+    "lede": "이름을 잘못 불렀거나 말이 겹쳤을 때도 괜찮아요. 짧게 사과하고 다시 대화를 이어가봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "I'm beat · 완전 지쳤어",
-        "description": "tired 대신 쓰는 진짜 회화체입니다.",
+        "label": "sorry about that · 미안해요",
+        "description": "작은 실수는 무엇을 잘못했는지 짚고 바로 사과해요. 이름이나 시간을 착각한 상황에 붙이기 좋아요.",
         "examples": [
           {
-            "english": "I'm beat.",
-            "korean": "나 완전 지쳤어."
+            "english": "Sorry about that. I got your name wrong.",
+            "korean": "미안해요. 제가 이름을 잘못 불렀네요."
           },
           {
-            "english": "I'm wiped out.",
-            "korean": "진이 다 빠졌어."
+            "english": "Sorry, I thought we were meeting at two.",
+            "korean": "미안해요. 두 시에 만나는 줄 알았어요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "freak out · 당황하다",
-        "description": "놀라서 이성을 잃는 상태. 주로 진정시킬 때 등장합니다.",
+        "label": "sorry to keep you waiting · 기다리게 해서 미안해요",
+        "description": "늦었을 때는 먼저 기다려준 사람에게 말을 건네요. 짧게 사정을 설명하거나 고마움을 전하면 돼요.",
         "examples": [
           {
-            "english": "Don't freak out.",
-            "korean": "놀라지 마."
+            "english": "Sorry to keep you waiting. I went to the wrong entrance.",
+            "korean": "기다리게 해서 미안해요. 다른 입구로 갔어요."
           },
           {
-            "english": "I freaked out a little.",
-            "korean": "좀 당황했어."
+            "english": "Thanks for waiting. I'm sorry I'm late.",
+            "korean": "기다려주셔서 고마워요. 늦어서 미안해요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "fed up · 지긋지긋하다",
-        "description": "참다 참다 한계에 다다른 상태입니다.",
+        "label": "I didn't mean · 그런 뜻은 아니었어요",
+        "description": "영어로 말하다 의도와 다르게 전달됐다면 다시 설명하면 돼요. 다른 말로 해보겠다고 하고 천천히 이어가봐요.",
         "examples": [
           {
-            "english": "I'm fed up with this.",
-            "korean": "이제 진짜 지긋지긋해."
+            "english": "I didn't mean it that way. Let me try again.",
+            "korean": "그런 뜻으로 말한 건 아니에요. 다시 말해볼게요."
           },
           {
-            "english": "She's had it with him.",
-            "korean": "걔한테 질릴 대로 질렸어."
+            "english": "Sorry if that sounded rude. I'm still learning how to say things in English.",
+            "korean": "무례하게 들렸다면 미안해요. 아직 영어로 어떻게 말하면 좋을지 배우는 중이에요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "into it / over it · 빠져 있다 / 마음이 떠났다",
-        "description": "관심의 시작과 끝을 나타내는 짝입니다.",
+        "label": "sorry for interrupting · 말 끊어서 미안해요",
+        "description": "말이 겹치거나 중간에 질문했다면 상대에게 다시 차례를 돌려줘요. 긴 사과 없이도 배려를 전할 수 있어요.",
         "examples": [
           {
-            "english": "I'm really into it lately.",
-            "korean": "요즘 그거에 완전 빠졌어."
+            "english": "Sorry for interrupting. Please go on.",
+            "korean": "말 끊어서 미안해요. 계속 말씀하세요."
           },
           {
-            "english": "He's not that into you.",
-            "korean": "걔 너한테 그렇게 관심 없어."
-          },
-          {
-            "english": "I'm over it.",
-            "korean": "이제 신경 안 써."
+            "english": "Sorry, you were saying something. Go ahead.",
+            "korean": "미안해요, 말씀 중이셨죠. 먼저 말씀하세요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "stoked / bummed · 신나다 / 아쉽다",
-        "description": "excited와 disappointed의 캐주얼 버전입니다.",
+        "label": "no worries · 괜찮아요",
+        "description": "상대가 미안해하면 괜찮다는 말을 건네봐요. 작은 실수라면 신경 쓰지 않아도 된다고 안심시켜줘요.",
         "examples": [
           {
-            "english": "I'm so stoked.",
-            "korean": "완전 신나."
+            "english": "No worries. I just got here too.",
+            "korean": "괜찮아요. 저도 방금 왔어요."
           },
           {
-            "english": "I was so bummed.",
-            "korean": "진짜 아쉬웠어."
-          },
-          {
-            "english": "He was psyched about it.",
-            "korean": "걔 그거 때문에 엄청 들떠 있었어."
+            "english": "Don't worry about it. These things happen.",
+            "korean": "신경 쓰지 마세요. 그럴 수도 있죠."
           }
         ]
       }
@@ -1879,85 +1662,81 @@
   {
     "episode": 21,
     "kicker": "VERB",
-    "title": "turn",
-    "lede": "돌린다는 뜻보다 \"밝혀지다·거절하다\"로 더 자주 씁니다.",
+    "title": "pick",
+    "lede": "메뉴를 고르고, 오는 길에 간식을 사고, 새로 배운 말을 나눠요. pick으로 함께할 일을 하나씩 정해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "turn out · 알고 보니",
-        "description": "뚜껑을 열어보니 그렇더라는 뜻입니다. Turns out으로 문장을 시작하는 형태가 흔해요.",
+        "label": "pick · 고르다",
+        "description": "선택지가 많을 때 서로 무엇을 고를지 물어봐요. 내가 하나 골랐다면 상대의 선택도 들어보세요.",
         "examples": [
           {
-            "english": "It turned out fine.",
-            "korean": "결국 잘 됐어."
+            "english": "Which one would you pick?",
+            "korean": "어느 걸 고르시겠어요?"
           },
           {
-            "english": "Turns out he was right.",
-            "korean": "알고 보니 걔 말이 맞았어."
-          },
-          {
-            "english": "How did it turn out?",
-            "korean": "어떻게 됐어?"
+            "english": "I'll pick a dessert. You pick a drink.",
+            "korean": "제가 디저트를 고를게요. 음료는 골라주세요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "turn down · 거절하다 · 줄이다",
-        "description": "제안에 쓰면 거절, 소리에 쓰면 줄이다가 됩니다.",
+        "label": "pick out · 골라주다",
+        "description": "내가 아는 메뉴나 물건을 상대가 고르도록 도와줘요. 내 취향을 말하며 추천을 부탁해도 좋아요.",
         "examples": [
           {
-            "english": "They turned me down.",
-            "korean": "걔네가 날 거절했어."
+            "english": "Can you help me pick out a book? Nothing too difficult.",
+            "korean": "책 고르는 것 좀 도와주실래요? 너무 어렵지 않은 걸로요."
           },
           {
-            "english": "Can you turn it down?",
-            "korean": "소리 좀 줄여줄래?"
+            "english": "I can help you pick out a gift for your friend.",
+            "korean": "친구분 선물 고르는 거 도와드릴게요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "turn up · 나타나다",
-        "description": "사람이 오거나 잃어버린 물건이 나올 때 씁니다.",
+        "label": "pick up · 사 오다",
+        "description": "만나는 곳으로 가는 길에 필요한 것을 사 오겠다고 해봐요. 상대에게 무엇이 필요한지도 함께 물어봐요.",
         "examples": [
           {
-            "english": "He didn't turn up.",
-            "korean": "걔 안 나타났어."
+            "english": "I'll pick up some snacks on the way.",
+            "korean": "가는 길에 간식 좀 사갈게요."
           },
           {
-            "english": "It turned up in my bag.",
-            "korean": "가방에서 나왔어."
+            "english": "Do you want me to pick up anything for you?",
+            "korean": "뭐 사다 드릴까요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "turn into · ~로 변하다",
-        "description": "become과 달리 \"원래는 아니었는데\"라는 전제가 깔립니다.",
+        "label": "pick you up · 차로 데리러 가다",
+        "description": "차로 데리러 갈 수 있다면 장소와 시간을 구체적으로 말해요. 상대가 찾기 쉬운 곳인지도 확인해봐요.",
         "examples": [
           {
-            "english": "It turned into a disaster.",
-            "korean": "완전 엉망이 됐어."
+            "english": "I can pick you up outside the station at nine.",
+            "korean": "아홉 시에 역 밖으로 차 갖고 데리러 갈 수 있어요."
           },
           {
-            "english": "Don't turn this into a fight.",
-            "korean": "이걸 싸움으로 만들지 마."
+            "english": "Where should I pick you up?",
+            "korean": "어디로 데리러 가면 될까요?"
           }
         ]
       },
       {
         "number": "05",
-        "label": "my turn · 내 차례",
-        "description": "원래 뜻인 \"돌다\"에서 온 순서 개념입니다.",
+        "label": "pick up a language · 듣고 쓰며 익히다",
+        "description": "수업 밖에서 자연스럽게 알게 된 말을 나눠봐요. 영상이나 친구와의 대화에서 무엇을 배웠는지 물어봐도 좋아요.",
         "examples": [
           {
-            "english": "It's your turn.",
-            "korean": "네 차례야."
+            "english": "Have you picked up any Korean from your coworkers?",
+            "korean": "직장 동료들한테 한국어 좀 배우셨어요?"
           },
           {
-            "english": "Wait your turn.",
-            "korean": "순서 기다려."
+            "english": "I've picked up a few English expressions from YouTube.",
+            "korean": "유튜브 보면서 영어 표현을 몇 개 익혔어요."
           }
         ]
       }
@@ -1966,81 +1745,81 @@
   {
     "episode": 22,
     "kicker": "PHRASE",
-    "title": "thing",
-    "lede": "\"것\"으로 배웠지만, 회화에선 말을 시작하고 맺는 자리에 훨씬 자주 나옵니다.",
+    "title": "out",
+    "lede": "밖에서 밥을 먹고, 새로운 곳을 둘러보고, 친구와 시간을 보내요. out으로 퇴근 후와 주말 이야기를 해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "the thing is · 문제는 말이야",
-        "description": "본론이나 핑계를 꺼내는 신호탄입니다.",
+        "label": "eat out · 외식하다",
+        "description": "평소 식사를 어떻게 해결하는지 이야기해봐요. 요리나 좋아하는 식당 이야기로 이어가기 쉬워요.",
         "examples": [
           {
-            "english": "The thing is, I already said yes.",
-            "korean": "문제는, 내가 이미 하겠다고 했다는 거야."
+            "english": "How often do you eat out?",
+            "korean": "외식은 얼마나 자주 하세요?"
           },
           {
-            "english": "That's the thing.",
-            "korean": "그게 문제야."
+            "english": "I try not to eat out too much. It adds up.",
+            "korean": "외식은 너무 자주 안 하려고 해요. 쌓이면 꽤 돈이 들더라고요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "a thing for · ~를 좋아하는 편",
-        "description": "like보다 은근하고 사적인 취향을 말합니다.",
+        "label": "hang out · 같이 시간을 보내다",
+        "description": "특별한 계획이 없어도 친구와 보낸 시간을 이야기할 수 있어요. 편하게 만나는 장소를 물어봐도 좋아요.",
         "examples": [
           {
-            "english": "She has a thing for old movies.",
-            "korean": "걘 옛날 영화를 좋아해."
+            "english": "Where do you usually hang out with your friends?",
+            "korean": "친구들이랑 보통 어디에서 만나요?"
           },
           {
-            "english": "I have a thing for rainy days.",
-            "korean": "난 비 오는 날을 좋아해."
+            "english": "We hung out at a friend's place and played board games.",
+            "korean": "친구 집에 모여서 보드게임 했어요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "my thing · 내 스타일",
-        "description": "취향이나 방식을 말합니다. 거절할 때도 자주 씁니다.",
+        "label": "check out · 가보다 / 살펴보다",
+        "description": "새로 생겼거나 궁금했던 장소에 함께 가보자고 해요. 추천받은 곳을 확인해보겠다고 답할 때도 좋아요.",
         "examples": [
           {
-            "english": "Just do your thing.",
-            "korean": "그냥 너 하던 대로 해."
+            "english": "Do you want to check out the market nearby?",
+            "korean": "근처 시장 한번 구경해볼래요?"
           },
           {
-            "english": "It's not my thing.",
-            "korean": "그건 내 취향이 아니야."
+            "english": "I'll check it out. Thanks for the recommendation.",
+            "korean": "한번 가볼게요. 추천해주셔서 고마워요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "first thing · 제일 먼저",
-        "description": "아침에 가장 먼저 한다는 뜻으로 굳어진 표현입니다.",
+        "label": "find out · 알아보다",
+        "description": "지금은 모르지만 확인해줄 수 있는 정보가 있다면 말해봐요. 상대가 어떤 경로로 알게 됐는지도 물을 수 있어요.",
         "examples": [
           {
-            "english": "I'll call you first thing tomorrow.",
-            "korean": "내일 아침 제일 먼저 전화할게."
+            "english": "I'll find out if we need a reservation.",
+            "korean": "예약이 필요한지 알아볼게요."
           },
           {
-            "english": "First things first.",
-            "korean": "순서대로 하자."
+            "english": "How did you find out about this event?",
+            "korean": "이 행사는 어떻게 알고 오셨어요?"
           }
         ]
       },
       {
         "number": "05",
-        "label": "it's a thing · 실제로 있는 거야",
-        "description": "요즘 유행이거나 실제로 존재한다는 뜻의 신조어 용법입니다.",
+        "label": "try out · 한번 해보다",
+        "description": "새로운 취미를 꼭 잘해야 할 필요는 없죠. 한번 경험해보고 싶다는 마음을 전해봐요.",
         "examples": [
           {
-            "english": "It's a thing now.",
-            "korean": "요즘 그런 게 유행이야."
+            "english": "I'd like to try out a pottery class.",
+            "korean": "도예 수업을 한번 들어보고 싶어요."
           },
           {
-            "english": "Is that even a thing?",
-            "korean": "그런 게 있긴 해?"
+            "english": "Do you want to try out this game with me?",
+            "korean": "이 게임 저랑 한번 해볼래요?"
           }
         ]
       }
@@ -2049,81 +1828,81 @@
   {
     "episode": 23,
     "kicker": "SET",
-    "title": "asks",
-    "lede": "부탁은 직선으로 던지지 않아요. 과거형과 쿠션을 앞에 깝니다.",
+    "title": "fillers",
+    "lede": "바로 답이 떠오르지 않아도 괜찮아요. 생각할 시간을 조금 벌고, 내 말을 고쳐가며 이어가봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "would you mind · 괜찮으실까요",
-        "description": "mind는 꺼린다는 뜻이라 승낙이 No입니다. 답이 헷갈리는 대표 표현이에요.",
+        "label": "let me think · 생각 좀 해볼게요",
+        "description": "질문을 받고 바로 답이 떠오르지 않으면 잠깐 기다려달라고 해요. 침묵이 신경 쓰일 때 기억해두면 편해요.",
         "examples": [
           {
-            "english": "Would you mind moving over a bit?",
-            "korean": "조금만 옆으로 가주실 수 있을까요?"
+            "english": "Let me think for a second.",
+            "korean": "잠깐만 생각해볼게요."
           },
           {
-            "english": "Do you mind if I sit here?",
-            "korean": "여기 앉아도 될까요?"
+            "english": "That's a good question. Let me think.",
+            "korean": "좋은 질문이네요. 생각 좀 해볼게요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "I was wondering if · ~해도 될까 해서",
-        "description": "과거형으로 한 발 물러선 부탁입니다. would와 같은 원리예요.",
+        "label": "well · 음",
+        "description": "바로 단정하기 어려운 답 앞에 가볍게 붙여봐요. 꼭 특별한 표현 없이도 평소의 생각을 이어갈 수 있어요.",
         "examples": [
           {
-            "english": "I was wondering if you had a minute.",
-            "korean": "잠깐 시간 되시나 해서요."
+            "english": "Well, I usually prefer quiet places.",
+            "korean": "음, 저는 보통 조용한 곳이 더 좋아요."
           },
           {
-            "english": "I was wondering if I could ask a favor.",
-            "korean": "부탁 하나만 드려도 될까 해서."
+            "english": "Well, it was fun, but a little crowded.",
+            "korean": "음, 재미있긴 했는데 사람이 좀 많았어요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "any chance · 혹시",
-        "description": "가능성이 낮다는 걸 전제하고 물어서 거절하기 쉽게 만들어 줍니다.",
+        "label": "I mean · 그러니까 / 아니",
+        "description": "방금 한 말을 더 자세히 설명하거나 바로 고칠 때예요. 잘못 말한 부분을 처음부터 전부 반복하지 않아도 돼요.",
         "examples": [
           {
-            "english": "Any chance you could help?",
-            "korean": "혹시 좀 도와줄 수 있어?"
+            "english": "It's close. I mean, about five minutes on foot.",
+            "korean": "가까워요. 그러니까, 걸어서 5분 정도예요."
           },
           {
-            "english": "Any chance we could move it to Friday?",
-            "korean": "혹시 금요일로 옮길 수 있을까요?"
+            "english": "Let's meet on Friday. I mean, Saturday.",
+            "korean": "금요일에 만나요. 아니, 토요일이요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "I hate to ask · 이런 부탁 하기 좀 그런데",
-        "description": "부탁 앞에 까는 밑밥입니다.",
+        "label": "how can I explain it · 어떻게 설명하면 좋을까요",
+        "description": "한국 음식이나 문화처럼 바로 떠오르는 영어 단어가 없을 때예요. 잠깐 생각한 뒤 쉬운 말로 풀어봐요.",
         "examples": [
           {
-            "english": "I hate to ask, but could you cover for me?",
-            "korean": "이런 부탁 하기 좀 그런데, 나 좀 대신해줄 수 있어?"
+            "english": "How can I explain it? It's like a savory pancake.",
+            "korean": "어떻게 설명하면 좋을까요? 짭짤한 팬케이크 같은 거예요."
           },
           {
-            "english": "I hate to bother you.",
-            "korean": "귀찮게 해서 미안한데."
+            "english": "What's the word in English? You use it to flip pancakes.",
+            "korean": "영어로 뭐라고 하죠? 팬케이크 뒤집을 때 쓰는 거요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "if you don't mind me asking · 실례가 안 된다면",
-        "description": "사적인 질문을 던지기 전의 예의입니다.",
+        "label": "so / anyway · 그래서 / 아무튼",
+        "description": "설명이 길어지거나 잠깐 다른 이야기를 했을 때 원래 이야기로 돌아와요. 뒤에 전하고 싶었던 말을 이어 붙이면 돼요.",
         "examples": [
           {
-            "english": "If you don't mind me asking, how old are you?",
-            "korean": "실례가 안 된다면, 나이가 어떻게 되세요?"
+            "english": "So, that's how I got into photography.",
+            "korean": "그래서 그렇게 사진에 관심을 갖게 됐어요."
           },
           {
-            "english": "Can I ask you something personal?",
-            "korean": "좀 개인적인 거 물어봐도 돼?"
+            "english": "Anyway, we ended up staying until closing time.",
+            "korean": "아무튼 결국 문 닫을 때까지 있었어요."
           }
         ]
       }
@@ -2132,89 +1911,81 @@
   {
     "episode": 24,
     "kicker": "VERB",
-    "title": "keep",
-    "lede": "가진다는 뜻보다 \"계속하다·유지시키다\"로 훨씬 많이 씁니다.",
+    "title": "call",
+    "lede": "이름을 어떻게 부르면 좋을지 묻고, 통화할 방법을 정해봐요. call로 서로에게 편한 방식을 찾아갈 수 있어요.",
     "blocks": [
       {
         "number": "01",
-        "label": "keep + -ing · 계속하다",
-        "description": "의도한 반복에도, 짜증나는 반복에도 씁니다.",
+        "label": "call me · 이렇게 불러주세요",
+        "description": "내 이름이나 편하게 부를 호칭을 알려줘요. 상대의 이름을 줄여 부르고 싶다면 먼저 물어보세요.",
         "examples": [
           {
-            "english": "Keep going.",
-            "korean": "계속해."
+            "english": "You can call me Jimin.",
+            "korean": "지민이라고 부르시면 돼요."
           },
           {
-            "english": "He keeps calling me.",
-            "korean": "걔가 계속 전화해."
-          },
-          {
-            "english": "I keep forgetting.",
-            "korean": "자꾸 까먹어."
+            "english": "Do you prefer Alex or Alexander?",
+            "korean": "알렉스랑 알렉산더 중에 어떻게 부르는 게 좋아요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "keep + 형용사 · 그 상태로 두다",
-        "description": "뒤에 형용사가 오면 \"~한 상태를 유지시키다\"가 됩니다.",
+        "label": "what do you call · 뭐라고 부르나요?",
+        "description": "눈앞의 물건 이름이 궁금하면 가리키며 물어봐요. 내가 아는 한국어 이름을 알려줄 때도 쓸 수 있어요.",
         "examples": [
           {
-            "english": "Keep it down.",
-            "korean": "좀 조용히 해."
+            "english": "What do you call this in English?",
+            "korean": "이건 영어로 뭐라고 해요?"
           },
           {
-            "english": "Keep it simple.",
-            "korean": "간단하게 가자."
-          },
-          {
-            "english": "That'll keep you warm.",
-            "korean": "그거 입으면 따뜻할 거야."
+            "english": "We call this a 'banchan,' a small side dish.",
+            "korean": "이런 작은 곁들임 음식은 반찬이라고 해요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "keep in touch · 연락하고 지내다",
-        "description": "헤어질 때 하는 인사로 굳어진 표현입니다.",
+        "label": "give you a call · 전화하다",
+        "description": "만나는 중 길이 헷갈리거나 대화가 길어질 때 전화해도 되는지 물어봐요. 상대가 편한 연락 방식도 함께 확인해요.",
         "examples": [
           {
-            "english": "Let's keep in touch.",
-            "korean": "연락하고 지내자."
+            "english": "Can I give you a call when I get there?",
+            "korean": "도착하면 전화해도 될까요?"
           },
           {
-            "english": "We kept in touch for years.",
-            "korean": "우린 몇 년간 연락하고 지냈어."
+            "english": "Would you rather call or text?",
+            "korean": "전화랑 문자 중에 뭐가 더 편하세요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "keep from · 숨기다 · 참다",
-        "description": "사람에게 쓰면 숨기다, 나에게 쓰면 참다가 됩니다.",
+        "label": "call off · 취소하다",
+        "description": "예정된 모임이 취소되면 이유와 함께 알려줘요. 내가 맡은 모임이라면 참석할 사람에게 분명하게 전하는 게 좋아요.",
         "examples": [
           {
-            "english": "Are you keeping something from me?",
-            "korean": "나한테 숨기는 거 있어?"
+            "english": "We had to call off the picnic because of the rain.",
+            "korean": "비가 와서 소풍을 취소해야 했어요."
           },
           {
-            "english": "I couldn't keep from laughing.",
-            "korean": "웃음을 참을 수가 없었어."
+            "english": "If we call it off, I'll let you know by noon.",
+            "korean": "취소하게 되면 낮 12시까지 알려드릴게요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "keep it · 가져 · 담아둬",
-        "description": "돌려받지 않겠다는 뜻, 그리고 발설하지 말라는 뜻으로 씁니다.",
+        "label": "call it a day / night · 오늘은 마무리하다",
+        "description": "함께 하던 작업이나 저녁 모임을 끝내고 싶을 때예요. 오늘은 충분히 했다는 느낌으로 자연스럽게 마무리해봐요.",
         "examples": [
           {
-            "english": "Keep it.",
-            "korean": "그냥 가져."
+            "english": "We've done a lot. Shall we call it a day?",
+            "korean": "많이 했네요. 오늘은 여기까지 할까요?"
           },
           {
-            "english": "Keep it to yourself.",
-            "korean": "너만 알고 있어."
+            "english": "I think I'll call it a night. I have an early start tomorrow.",
+            "korean": "저는 이만 들어갈게요. 내일 일찍 일어나야 해서요."
           }
         ]
       }
@@ -2222,86 +1993,82 @@
   },
   {
     "episode": 25,
-    "kicker": "VERB",
-    "title": "hold",
-    "lede": "잡는다는 뜻보다 \"잠깐 멈춰\"의 자리에서 훨씬 자주 나옵니다.",
+    "kicker": "PHRASE",
+    "title": "good",
+    "lede": "잘하는 일만 말할 필요는 없어요. 서툰 취미, 마음에 든 제안, 함께 보낸 좋은 시간도 good으로 전해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "hold on · 잠깐만",
-        "description": "전화에서도 대화에서도 상대를 멈춰 세울 때 씁니다.",
+        "label": "good at · 잘하다",
+        "description": "어떤 걸 잘하는지 묻거나 아직 배우는 중이라고 말해봐요. 실력 이야기에 너무 부담을 갖지 않아도 돼요.",
         "examples": [
           {
-            "english": "Hold on a second.",
-            "korean": "잠깐만."
+            "english": "I'm not very good at cooking, but I enjoy it.",
+            "korean": "요리를 잘하진 못하지만 좋아해요."
           },
           {
-            "english": "Hold on, that's not what I said.",
-            "korean": "잠깐, 난 그렇게 말 안 했어."
-          },
-          {
-            "english": "Hold on, I'll check.",
-            "korean": "잠시만, 확인해볼게."
+            "english": "You're good at explaining things. Do you teach?",
+            "korean": "설명을 잘하시네요. 가르치는 일 하세요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "hold back · 참다 · 감추다",
-        "description": "말이나 감정을 다 내놓지 않는다는 뜻입니다.",
+        "label": "good with · 잘 다루다",
+        "description": "사람이나 물건을 편하게 대하는 능력을 이야기해봐요. 상대에게 작은 도움을 부탁할 때도 연결할 수 있어요.",
         "examples": [
           {
-            "english": "Don't hold back.",
-            "korean": "참지 말고 다 말해."
+            "english": "Are you good with plants? I need some advice.",
+            "korean": "식물 잘 키우세요? 조언 좀 듣고 싶어요."
           },
           {
-            "english": "She's holding something back.",
-            "korean": "걔 뭔가 감추고 있어."
+            "english": "I'm not good with names, so I might ask again.",
+            "korean": "제가 이름을 잘 못 외워서 다시 여쭤볼 수도 있어요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "hold off · 미루다",
-        "description": "당장 하지 말고 기다리자는 뜻입니다.",
+        "label": "sounds good · 좋아요",
+        "description": "상대가 낸 제안이 괜찮으면 짧게 받아줘요. 시간이나 행동을 덧붙이면 약속이 더 분명해져요.",
         "examples": [
           {
-            "english": "Let's hold off for now.",
-            "korean": "일단 보류하자."
+            "english": "Sounds good. I'll see you at seven.",
+            "korean": "좋아요. 일곱 시에 봬요."
           },
           {
-            "english": "Can we hold off on that?",
-            "korean": "그건 좀 미뤄도 될까?"
+            "english": "That sounds like a good idea. Let's do it.",
+            "korean": "좋은 생각이네요. 그렇게 해요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "hold up · 버티다 · 지연시키다",
-        "description": "힘든 상황에서 안부를 물을 때 쓰는 정해진 표현이 있습니다.",
+        "label": "good for · 잘 맞다 / 도움이 되다",
+        "description": "추천하는 장소가 어떤 활동에 맞는지 알려줘요. 나에게 좋은 습관을 이야기할 때도 자연스러워요.",
         "examples": [
           {
-            "english": "How are you holding up?",
-            "korean": "좀 어때, 버틸 만해?"
+            "english": "This cafe is good for working. It's usually quiet.",
+            "korean": "이 카페는 작업하기 좋아요. 보통 조용하거든요."
           },
           {
-            "english": "What's holding us up?",
-            "korean": "뭐 때문에 늦어지는 거야?"
+            "english": "Walking after work is good for my mood.",
+            "korean": "퇴근하고 걸으면 기분이 좋아져요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "hold it against · 마음에 담아두다",
-        "description": "잘못을 계속 기억하고 탓한다는 뜻입니다.",
+        "label": "a good time · 즐거운 시간",
+        "description": "함께한 시간이 좋았다고 말하면 상대도 반가워요. 지금 즐거운지 물어보거나 만난 뒤 감사 인사로 전해봐요.",
         "examples": [
           {
-            "english": "I won't hold it against you.",
-            "korean": "그걸로 마음에 담아두진 않을게."
+            "english": "Are you having a good time?",
+            "korean": "재미있게 보내고 계세요?"
           },
           {
-            "english": "Don't hold it against him.",
-            "korean": "걔한테 계속 마음 두지 마."
+            "english": "I had a really good time today. Thanks for inviting me.",
+            "korean": "오늘 정말 즐거웠어요. 초대해주셔서 고마워요."
           }
         ]
       }
@@ -2310,89 +2077,81 @@
   {
     "episode": 26,
     "kicker": "SET",
-    "title": "small talk",
-    "lede": "본론 앞뒤로 오가는 말들이에요. 이게 없으면 대화가 딱딱해집니다.",
+    "title": "disagreeing",
+    "lede": "생각이 달라도 대화를 이어갈 수 있어요. 상대의 취향은 존중하면서 내가 느낀 점을 편하게 말해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "how's it going · 어떻게 지내",
-        "description": "How are you보다 훨씬 자주 씁니다. 진짜 안부보다는 인사에 가까워요.",
+        "label": "I'm not so sure · 저는 잘 모르겠어요",
+        "description": "상대의 의견에 바로 동의하기 어렵다면 조심스럽게 내 생각을 꺼내요. 반대하는 이유를 짧게 붙여봐요.",
         "examples": [
           {
-            "english": "How's it going?",
-            "korean": "어떻게 지내?"
+            "english": "I'm not so sure. It might be too far to walk.",
+            "korean": "글쎄요. 걸어가기에는 좀 멀 것 같아요."
           },
           {
-            "english": "How've you been?",
-            "korean": "그동안 어떻게 지냈어?"
-          },
-          {
-            "english": "Good, you?",
-            "korean": "잘 지내지, 너는?"
+            "english": "I'm not sure I'd recommend it for beginners.",
+            "korean": "초보자한테 추천하기는 좀 어려울 것 같아요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "it's been a while · 오랜만이야",
-        "description": "오랜만에 만났을 때의 첫마디입니다.",
+        "label": "I prefer · 저는 이쪽이 더 좋아요",
+        "description": "무엇이 더 좋다는 이야기는 취향 차이일 수 있어요. 상대의 선택을 평가하기보다 내가 좋아하는 쪽을 말해봐요.",
         "examples": [
           {
-            "english": "Long time no see.",
-            "korean": "오랜만이다."
+            "english": "I prefer smaller cafes. They're usually quieter.",
+            "korean": "저는 작은 카페가 더 좋아요. 보통 더 조용하거든요."
           },
           {
-            "english": "It's been a while.",
-            "korean": "오랜만이네."
+            "english": "I actually prefer winter to summer.",
+            "korean": "저는 오히려 여름보다 겨울이 더 좋아요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "what have you been up to · 뭐 하고 지냈어",
-        "description": "근황을 묻는 말인데, 답도 정해진 게 있습니다.",
+        "label": "I agree, but · 맞아요, 그런데",
+        "description": "공감하는 부분과 내 생각을 함께 말해봐요. 조건이나 상황이 달라지면 의견도 달라질 수 있어요.",
         "examples": [
           {
-            "english": "What have you been up to?",
-            "korean": "그동안 뭐 하고 지냈어?"
+            "english": "I agree it's convenient, but delivery fees add up.",
+            "korean": "편한 건 맞는데, 배달비가 쌓이면 꽤 되더라고요."
           },
           {
-            "english": "Same old, same old.",
-            "korean": "늘 그렇지 뭐."
+            "english": "I like the idea, but could we choose somewhere cheaper?",
+            "korean": "좋은 생각인데, 좀 더 저렴한 곳으로 고를 수 있을까요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "날씨 이야기",
-        "description": "할 말이 없을 때 꺼내는 만능 화제입니다. 영어권에서는 무례하지 않아요.",
+        "label": "not necessarily · 꼭 그렇지는 않아요",
+        "description": "상대가 모든 경우를 똑같이 생각하는 것 같다면 다른 경우도 알려줘요. 구체적인 예를 붙이면 반박보다 설명으로 이어져요.",
         "examples": [
           {
-            "english": "Can you believe this weather?",
-            "korean": "날씨 왜 이래?"
+            "english": "Not necessarily. Some Korean dishes aren't spicy at all.",
+            "korean": "꼭 그렇진 않아요. 한국 음식 중에는 전혀 안 매운 것도 있어요."
           },
           {
-            "english": "It's finally cooling down.",
-            "korean": "드디어 좀 시원해지네."
+            "english": "It depends on the neighborhood. Some areas are very quiet.",
+            "korean": "동네마다 달라요. 아주 조용한 곳도 있어요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "I should get going · 이제 가볼게",
-        "description": "대화를 자연스럽게 끝내는 순서가 있습니다. 나가겠다 → 반가웠다 → 또 보자.",
+        "label": "different tastes · 취향이 다르네요",
+        "description": "영화나 음식 취향이 달라도 결론을 하나로 맞출 필요는 없어요. 차이를 편하게 받아들이며 대화를 마무리해봐요.",
         "examples": [
           {
-            "english": "I should get going.",
-            "korean": "나 이제 가봐야겠다."
+            "english": "I guess we have different tastes in movies.",
+            "korean": "우리 영화 취향이 좀 다른가 봐요."
           },
           {
-            "english": "Good seeing you.",
-            "korean": "만나서 반가웠어."
-          },
-          {
-            "english": "Let's catch up soon.",
-            "korean": "조만간 또 보자."
+            "english": "That's fair. We don't have to like the same things.",
+            "korean": "그럴 수 있죠. 꼭 같은 걸 좋아할 필요는 없으니까요."
           }
         ]
       }
@@ -2401,89 +2160,81 @@
   {
     "episode": 27,
     "kicker": "VERB",
-    "title": "work",
-    "lede": "일한다는 뜻만 알면 절반도 못 쓰는 단어예요.",
+    "title": "leave",
+    "lede": "이제 가봐야 할 때도, 누군가를 도와주고 싶을 때도. leave로 필요한 말을 전하고 자리를 정리해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "work out · 잘 풀리다",
-        "description": "운동한다는 뜻보다 \"일이 잘 되다\"로 더 자주 씁니다.",
+        "label": "have to leave · 가봐야 하다",
+        "description": "떠나야 할 시간을 미리 말하면 갑자기 대화를 끊지 않아도 돼요. 이유는 짧게만 덧붙여도 충분해요.",
         "examples": [
           {
-            "english": "It didn't work out.",
-            "korean": "잘 안 됐어."
+            "english": "I have to leave in about ten minutes.",
+            "korean": "저 10분쯤 뒤에 가봐야 해요."
           },
           {
-            "english": "It'll work out.",
-            "korean": "어떻게든 될 거야."
-          },
-          {
-            "english": "How did it work out?",
-            "korean": "어떻게 됐어?"
+            "english": "What time do you need to leave?",
+            "korean": "몇 시쯤 가보셔야 해요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "that works · 그럼 되겠다",
-        "description": "일정이나 조건이 괜찮은지 확인할 때의 기본 표현입니다.",
+        "label": "leave ... here · 여기 두다",
+        "description": "잠깐 자리를 비우거나 짐을 놓고 싶을 때 확인해봐요. 무엇을 어디에 두는지 말하면 서로 헷갈리지 않아요.",
         "examples": [
           {
-            "english": "That works for me.",
-            "korean": "난 그거 괜찮아."
+            "english": "Can I leave my bag here while I get a drink?",
+            "korean": "음료 가져오는 동안 가방 여기 둬도 될까요?"
           },
           {
-            "english": "Does Friday work?",
-            "korean": "금요일 괜찮아?"
-          },
-          {
-            "english": "Whatever works.",
-            "korean": "되는 대로 하자."
+            "english": "You can leave your umbrella by the door.",
+            "korean": "우산은 문 옆에 두시면 돼요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "it's not working · 작동하다",
-        "description": "기계가 안 될 때, 그리고 관계가 안 풀릴 때 둘 다 씁니다.",
+        "label": "leave ... out · 빼다",
+        "description": "함께 요리하거나 음식을 나눌 때 먹지 못하는 재료를 이야기해봐요. 상대의 취향도 미리 물어볼 수 있어요.",
         "examples": [
           {
-            "english": "It's not working.",
-            "korean": "이거 안 되는데."
+            "english": "Could we leave out the chili? I can't handle much spice.",
+            "korean": "고추는 빼도 될까요? 제가 매운 걸 잘 못 먹어서요."
           },
           {
-            "english": "It worked!",
-            "korean": "됐다!"
+            "english": "I'll leave out the cilantro if you don't like it.",
+            "korean": "고수 안 좋아하시면 빼고 만들게요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "work on · 공들이다",
-        "description": "진행 중이라는 뜻. 재촉받을 때 가장 많이 나오는 대답입니다.",
+        "label": "leave it to me · 제가 할게요",
+        "description": "내가 잘 아는 일은 맡겠다고 해봐요. 주문이나 자리 예약처럼 작은 일을 먼저 도와줄 수 있어요.",
         "examples": [
           {
-            "english": "I'm working on it.",
-            "korean": "지금 하는 중이야."
+            "english": "Leave the ordering to me. I'll explain the menu first.",
+            "korean": "주문은 제가 할게요. 메뉴부터 설명해드릴게요."
           },
           {
-            "english": "He's working on himself.",
-            "korean": "걔 자기 자신을 고쳐가는 중이야."
+            "english": "You can leave the reservation to me.",
+            "korean": "예약은 제가 할게요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "work around · 피해서 해보다",
-        "description": "장애물을 없애지 못할 때 돌아가는 방법을 찾는다는 뜻입니다.",
+        "label": "left · 남아 있다",
+        "description": "음식이나 남은 시간을 확인해봐요. 얼마나 남았는지 알면 더 먹거나 다음 행동을 정하기 편해요.",
         "examples": [
           {
-            "english": "We'll work around it.",
-            "korean": "어떻게든 피해서 해보자."
+            "english": "Is there any rice left?",
+            "korean": "밥 좀 남았어요?"
           },
           {
-            "english": "Can you work with that?",
-            "korean": "그걸로 되겠어?"
+            "english": "We have half an hour left. Want to look around?",
+            "korean": "우리 30분 남았는데 좀 둘러볼까요?"
           }
         ]
       }
@@ -2492,70 +2243,81 @@
   {
     "episode": 28,
     "kicker": "PHRASE",
-    "title": "off",
-    "lede": "\"떨어져 나간\"이라는 감각 하나로 여러 뜻이 갈립니다.",
+    "title": "back",
+    "lede": "답장을 보내고, 빌린 것을 돌려주고, 잘 들어갔는지 물어봐요. back으로 만남 뒤의 대화까지 이어가봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "day off · 쉬는 날",
-        "description": "일에서 떨어져 있다는 뜻입니다.",
+        "label": "get back to you · 확인하고 다시 알려주다",
+        "description": "바로 답하기 어려운 질문은 확인한 뒤 알려주면 돼요. 언제쯤 답할지 함께 말해줘요.",
         "examples": [
           {
-            "english": "I'm off today.",
-            "korean": "나 오늘 쉬어."
+            "english": "I'll get back to you tonight once I've checked.",
+            "korean": "확인하고 오늘 저녁에 알려드릴게요."
           },
           {
-            "english": "I took the day off.",
-            "korean": "하루 휴가 냈어."
+            "english": "Can I get back to you on that after work?",
+            "korean": "그건 퇴근하고 답드려도 될까요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "something's off · 꺼진 · 이상한",
-        "description": "전원이 꺼진 것, 그리고 뭔가 어긋난 느낌 둘 다 씁니다.",
+        "label": "text back · 답장하다",
+        "description": "메시지를 바로 확인하지 못했을 때 사정을 말해봐요. 상대도 바로 답할 필요 없다고 알려줄 수 있어요.",
         "examples": [
           {
-            "english": "The lights are off.",
-            "korean": "불이 꺼져 있어."
+            "english": "Sorry I didn't text back sooner. I was in a meeting.",
+            "korean": "답장이 늦어서 미안해요. 회의 중이었어요."
           },
           {
-            "english": "Something's off.",
-            "korean": "뭔가 좀 이상해."
-          },
-          {
-            "english": "The milk smells off.",
-            "korean": "우유에서 쉰내 나."
+            "english": "No rush to text back. Enjoy your weekend.",
+            "korean": "답장은 천천히 하셔도 돼요. 주말 잘 보내세요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "off the top of my head · 즉석에서",
-        "description": "찾아보지 않고 바로 떠오르는 대로 말한다는 뜻입니다.",
+        "label": "bring back · 가져다 돌려주다",
+        "description": "빌린 물건을 언제 돌려줄지 말해요. 내가 빌려준 물건이라면 다음에 만날 때 가져와도 된다고 해봐요.",
         "examples": [
           {
-            "english": "Off the top of my head, maybe twenty.",
-            "korean": "그냥 생각나는 대로면 한 스무 개?"
+            "english": "I'll bring your book back next time we meet.",
+            "korean": "다음에 만날 때 책 돌려드릴게요."
           },
           {
-            "english": "I can't say off the top of my head.",
-            "korean": "바로는 말 못 하겠어."
+            "english": "You can bring the container back whenever we meet again.",
+            "korean": "통은 다음에 만날 때 가져다주셔도 돼요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "I'm off · 나 간다",
-        "description": "자리를 뜰 때 쓰는 짧은 인사입니다.",
+        "label": "get back · 돌아가다",
+        "description": "집에 잘 도착했는지 물으며 만남 뒤에도 짧게 말을 건네봐요. 아직 이동 중이라면 언제 도착할지 알려줘요.",
         "examples": [
           {
-            "english": "I'm off.",
-            "korean": "나 간다."
+            "english": "Did you get back home okay?",
+            "korean": "집에 잘 들어가셨어요?"
           },
           {
-            "english": "Off you go.",
-            "korean": "자, 가봐."
+            "english": "I'll message you when I get back.",
+            "korean": "돌아가면 메시지 드릴게요."
+          }
+        ]
+      },
+      {
+        "number": "05",
+        "label": "back home · 고향에서는 / 집에 돌아가서",
+        "description": "상대가 다른 곳에서 살다가 왔다면 그곳의 생활도 궁금할 수 있어요. 다른 문화를 하나로 단정하지 말고 경험을 물어봐요.",
+        "examples": [
+          {
+            "english": "What do you miss most about back home?",
+            "korean": "고향에서 가장 그리운 게 뭐예요?"
+          },
+          {
+            "english": "Do you think you'll cook Korean food back home?",
+            "korean": "집에 돌아가서도 한국 음식 만들어 드실 것 같아요?"
           }
         ]
       }
@@ -2564,81 +2326,81 @@
   {
     "episode": 29,
     "kicker": "SET",
-    "title": "time",
-    "lede": "시간을 말하는 방식이에요. when, later 말고 이렇게 씁니다.",
+    "title": "shrugs",
+    "lede": "딱히 고집하는 게 없거나 아직 답을 모르겠다면, 그렇게 말해도 괜찮아요. 무심하게 들리지 않도록 한마디를 보태봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "at some point · 언젠가는",
-        "description": "시점을 흐려서 부담을 던 표현입니다.",
+        "label": "either is fine · 둘 다 괜찮아요",
+        "description": "두 가지 선택지 중 어느 쪽이든 좋다면 편하게 말해줘요. 상대가 다시 물을 필요 없도록 무엇이 괜찮은지 덧붙여봐요.",
         "examples": [
           {
-            "english": "At some point, you have to decide.",
-            "korean": "언젠간 결정해야 해."
+            "english": "Either is fine with me. I like both.",
+            "korean": "저는 둘 다 괜찮아요. 둘 다 좋아해서요."
           },
           {
-            "english": "We should talk at some point.",
-            "korean": "언제 한번 얘기하자."
+            "english": "Tea or coffee? I'm happy with either.",
+            "korean": "차나 커피요? 저는 어느 쪽이든 좋아요."
           }
         ]
       },
       {
         "number": "02",
-        "label": "every now and then · 가끔",
-        "description": "sometimes보다 훨씬 자연스럽습니다. once in a while과 바꿔 써요.",
+        "label": "I don't mind · 저는 상관없어요",
+        "description": "장소나 시간이 크게 중요하지 않다면 상대가 편한 쪽에 맞출 수 있어요. 귀찮다는 말이 아니라 괜찮다는 마음을 뒤에 보태봐요.",
         "examples": [
           {
-            "english": "I still think about it every now and then.",
-            "korean": "아직도 가끔 생각나."
+            "english": "I don't mind waiting a little. I'm not in a rush.",
+            "korean": "조금 기다려도 괜찮아요. 급하지 않아요."
           },
           {
-            "english": "We meet up once in a while.",
-            "korean": "우린 가끔 만나."
+            "english": "I don't mind where we sit, as long as we can talk.",
+            "korean": "이야기할 수만 있으면 어디 앉든 괜찮아요."
           }
         ]
       },
       {
         "number": "03",
-        "label": "back then · 그 시절엔",
-        "description": "회상의 시작점을 찍는 말입니다.",
+        "label": "I guess so · 그런 것 같아요",
+        "description": "확신까지는 없지만 대체로 동의한다면 이렇게 답해요. 뒤에 내 생각을 붙이면 너무 짧게 끊는 느낌이 줄어요.",
         "examples": [
           {
-            "english": "Back then, we didn't have phones.",
-            "korean": "그땐 핸드폰도 없었잖아."
+            "english": "I guess so. Weekdays are probably less busy.",
+            "korean": "그럴 것 같아요. 평일에는 좀 덜 붐비겠죠."
           },
           {
-            "english": "Things were different back then.",
-            "korean": "그땐 상황이 달랐어."
+            "english": "I suppose we could try it and see.",
+            "korean": "일단 해보고 생각해도 되겠네요."
           }
         ]
       },
       {
         "number": "04",
-        "label": "for now · 일단은",
-        "description": "임시라는 뉘앙스를 남깁니다. 나중에 바뀔 수 있다는 뜻이에요.",
+        "label": "hard to say · 뭐라 말하기 어렵네요",
+        "description": "잘 모르거나 하나만 고르기 어려울 때 솔직하게 말해봐요. 아는 척하지 않아도 질문을 주고받으며 대화를 이어갈 수 있어요.",
         "examples": [
           {
-            "english": "That's all for now.",
-            "korean": "일단은 그게 다야."
+            "english": "It's hard to say. I like different things about both cities.",
+            "korean": "말하기 어렵네요. 두 도시가 각각 다른 점이 좋아서요."
           },
           {
-            "english": "Let's leave it for now.",
-            "korean": "일단 그냥 두자."
+            "english": "I'm not sure yet. I haven't tried it.",
+            "korean": "아직 잘 모르겠어요. 안 해봤거든요."
           }
         ]
       },
       {
         "number": "05",
-        "label": "any minute now · 곧",
-        "description": "기다리는 상황의 단골 표현입니다.",
+        "label": "see how it goes · 일단 보고 정해요",
+        "description": "지금 모든 계획을 정할 필요가 없다면 여유를 두자고 해봐요. 날씨나 분위기를 보고 결정해도 괜찮은 상황에 좋아요.",
         "examples": [
           {
-            "english": "She should be here any minute.",
-            "korean": "걔 곧 올 거야."
+            "english": "Let's see how it goes. We can always leave early.",
+            "korean": "일단 봐요. 언제든 일찍 나와도 되니까요."
           },
           {
-            "english": "Any second now.",
-            "korean": "이제 곧이야."
+            "english": "We don't need to decide now. Let's see how we feel after lunch.",
+            "korean": "지금 정하지 않아도 돼요. 점심 먹고 생각해봐요."
           }
         ]
       }
@@ -2647,1089 +2409,81 @@
   {
     "episode": 30,
     "kicker": "VERB",
-    "title": "break",
-    "lede": "깨진다는 뜻에서 출발해 관계·기계·규칙까지 넓게 씁니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "break up · 헤어지다",
-        "description": "연인 사이에도, 전화가 끊길 때도 씁니다.",
-        "examples": [
-          {
-            "english": "They broke up.",
-            "korean": "걔네 헤어졌어."
-          },
-          {
-            "english": "You're breaking up.",
-            "korean": "소리가 끊겨."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "break down · 고장나다 · 무너지다",
-        "description": "기계에 쓰면 고장, 사람에게 쓰면 감정이 무너진다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "My car broke down.",
-            "korean": "차가 고장 났어."
-          },
-          {
-            "english": "She broke down crying.",
-            "korean": "걔가 울음을 터뜨렸어."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "give me a break · 좀 봐줘 / 말도 안 돼",
-        "description": "억양에 따라 부탁도 되고 어이없다는 반응도 됩니다.",
-        "examples": [
-          {
-            "english": "Give me a break.",
-            "korean": "좀 봐줘 / 웃기지 마."
-          },
-          {
-            "english": "Cut me some slack.",
-            "korean": "좀 봐주라."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "take a break · 쉬다",
-        "description": "잠깐 멈추고 쉰다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Let's take a break.",
-            "korean": "좀 쉬자."
-          },
-          {
-            "english": "I need a break.",
-            "korean": "나 좀 쉬어야겠어."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "break the news · 소식을 전하다",
-        "description": "주로 나쁜 소식을 전할 때 씁니다.",
-        "examples": [
-          {
-            "english": "Who's going to break the news?",
-            "korean": "누가 얘기할 거야?"
-          },
-          {
-            "english": "I hate to break it to you.",
-            "korean": "이런 말 하기 좀 그런데."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 31,
-    "kicker": "PHRASE",
-    "title": "point",
-    "lede": "점이라는 뜻보다 \"요점·의미\"로 쓰이는 자리가 훨씬 많아요.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "the point is · 요점은",
-        "description": "곁길로 샌 이야기를 정리할 때 씁니다.",
-        "examples": [
-          {
-            "english": "That's not the point.",
-            "korean": "그게 중요한 게 아니야."
-          },
-          {
-            "english": "The point is, we're late.",
-            "korean": "요점은, 우리가 늦었다는 거야."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "what's the point · 그래봤자 뭐해",
-        "description": "무의미하다는 뜻. 체념이 섞여 있습니다.",
-        "examples": [
-          {
-            "english": "What's the point?",
-            "korean": "그래봤자 뭐해."
-          },
-          {
-            "english": "There's no point.",
-            "korean": "소용없어."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "good point · 좋은 지적이야",
-        "description": "상대 말을 인정할 때 한마디로 끝냅니다.",
-        "examples": [
-          {
-            "english": "Good point.",
-            "korean": "좋은 지적이네."
-          },
-          {
-            "english": "Point taken.",
-            "korean": "무슨 말인지 인정."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "have a point · 일리가 있다",
-        "description": "완전히 동의하진 않지만 맞는 구석이 있다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "You have a point.",
-            "korean": "네 말도 일리가 있어."
-          },
-          {
-            "english": "He's got a point there.",
-            "korean": "걔 말이 맞긴 해."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "to the point · 요점만",
-        "description": "군더더기 없이 핵심만 말하라는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Get to the point.",
-            "korean": "본론만 말해."
-          },
-          {
-            "english": "Short and to the point.",
-            "korean": "짧고 명확하게."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 32,
-    "kicker": "SET",
-    "title": "apologies",
-    "lede": "I'm sorry 하나로 다 되지 않아요. 무게에 따라 말이 갈립니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "my bad · 내 실수",
-        "description": "가벼운 실수에 씁니다. sorry보다 훨씬 캐주얼해요.",
-        "examples": [
-          {
-            "english": "My bad.",
-            "korean": "아, 내 잘못."
-          },
-          {
-            "english": "That's on me.",
-            "korean": "그건 내 탓이야."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "sorry about that · 아까는 미안",
-        "description": "이미 지나간 일에 대해 가볍게 사과할 때 씁니다.",
-        "examples": [
-          {
-            "english": "Sorry about that.",
-            "korean": "아까는 미안했어."
-          },
-          {
-            "english": "Sorry to keep you waiting.",
-            "korean": "기다리게 해서 미안해."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "I didn't mean to · 일부러 그런 건 아니야",
-        "description": "의도가 없었다는 걸 밝힐 때. 뒤를 안 붙여도 완성됩니다.",
-        "examples": [
-          {
-            "english": "I didn't mean to.",
-            "korean": "일부러 그런 거 아니야."
-          },
-          {
-            "english": "I didn't mean it like that.",
-            "korean": "그런 뜻으로 한 말 아니야."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "I owe you an apology · 사과할 게 있어",
-        "description": "무게 있는 사과입니다. 시간이 지난 뒤에 꺼낼 때 씁니다.",
-        "examples": [
-          {
-            "english": "I owe you an apology.",
-            "korean": "너한테 사과할 게 있어."
-          },
-          {
-            "english": "I should have said something sooner.",
-            "korean": "진작 말했어야 했는데."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "no worries · 괜찮아",
-        "description": "사과를 받는 쪽의 말입니다. It's okay보다 자주 씁니다.",
-        "examples": [
-          {
-            "english": "No worries.",
-            "korean": "괜찮아."
-          },
-          {
-            "english": "Don't worry about it.",
-            "korean": "신경 쓰지 마."
-          },
-          {
-            "english": "It's all good.",
-            "korean": "다 괜찮아."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 33,
-    "kicker": "VERB",
-    "title": "pick",
-    "lede": "고른다는 뜻 말고 데리러 가고, 눈치채고, 트집 잡습니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "pick up · 집다 · 데리러 가다 · 사오다",
-        "description": "한 표현이 세 가지 일상 상황을 다 커버합니다.",
-        "examples": [
-          {
-            "english": "I'll pick you up at seven.",
-            "korean": "일곱 시에 데리러 갈게."
-          },
-          {
-            "english": "Can you pick up some milk?",
-            "korean": "오는 길에 우유 좀 사올래?"
-          },
-          {
-            "english": "Pick up your phone.",
-            "korean": "전화 좀 받아."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "pick up on · 눈치채다",
-        "description": "말하지 않은 것을 알아차린다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "She picked up on it right away.",
-            "korean": "걔는 바로 눈치챘어."
-          },
-          {
-            "english": "I didn't pick up on that.",
-            "korean": "난 그거 눈치 못 챘어."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "pick out · 골라내다",
-        "description": "여럿 중에서 하나를 고른다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Help me pick one out.",
-            "korean": "고르는 것 좀 도와줘."
-          },
-          {
-            "english": "I picked out a gift.",
-            "korean": "선물 하나 골랐어."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "pick on · 트집 잡다",
-        "description": "한 사람만 골라 괴롭힌다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Stop picking on him.",
-            "korean": "걔 좀 그만 괴롭혀."
-          },
-          {
-            "english": "Why are you picking on me?",
-            "korean": "왜 나한테만 그래?"
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "pick up where we left off · 이어서 하다",
-        "description": "멈췄던 지점에서 다시 시작한다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Let's pick up where we left off.",
-            "korean": "하던 데서부터 이어서 하자."
-          },
-          {
-            "english": "Business is picking up.",
-            "korean": "장사가 좀 살아나고 있어."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 34,
-    "kicker": "PHRASE",
-    "title": "out",
-    "lede": "밖이라는 뜻에서 \"다 떨어진·드러난·정신 나간\"까지 뻗어 나갑니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "out of · 다 떨어진",
-        "description": "물건도 생각도 out of 합니다.",
-        "examples": [
-          {
-            "english": "We're out of coffee.",
-            "korean": "커피 다 떨어졌어."
-          },
-          {
-            "english": "I'm out of ideas.",
-            "korean": "더 이상 아이디어가 없어."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "find out · 알아내다",
-        "description": "몰랐던 사실이 드러난다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "I'll find out.",
-            "korean": "내가 알아볼게."
-          },
-          {
-            "english": "How did you find out?",
-            "korean": "어떻게 알았어?"
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "hang out · 놀다",
-        "description": "특별한 일 없이 같이 시간을 보낸다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Let's hang out sometime.",
-            "korean": "언제 한번 놀자."
-          },
-          {
-            "english": "We just hung out at home.",
-            "korean": "그냥 집에서 뒹굴었어."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "out of nowhere · 뜬금없이",
-        "description": "예고 없이 갑자기 벌어진 일을 말합니다.",
-        "examples": [
-          {
-            "english": "It came out of nowhere.",
-            "korean": "갑자기 튀어나왔어."
-          },
-          {
-            "english": "Out of the blue, he called.",
-            "korean": "뜬금없이 걔가 전화했어."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "out of it · 정신이 없는",
-        "description": "몸은 있는데 정신이 나가 있는 상태입니다.",
-        "examples": [
-          {
-            "english": "I'm a bit out of it today.",
-            "korean": "오늘 좀 정신이 없네."
-          },
-          {
-            "english": "He looked out of it.",
-            "korean": "걔 넋이 나가 보이더라."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 35,
-    "kicker": "SET",
-    "title": "fillers",
-    "lede": "뜸 들이는 소리예요. 군더더기 같아 보여도, 없으면 오히려 부자연스럽습니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "you know · 있잖아",
-        "description": "말을 고르는 동안 자리를 채우거나, 동의를 구할 때 씁니다.",
-        "examples": [
-          {
-            "english": "You know what I mean?",
-            "korean": "무슨 말인지 알지?"
-          },
-          {
-            "english": "You know, I've been thinking.",
-            "korean": "있잖아, 내가 좀 생각해봤는데."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "like · 뭐랄까",
-        "description": "말 중간에 끼우거나, 남의 말을 옮길 때 씁니다. 후자는 be동사와 함께 써요.",
-        "examples": [
-          {
-            "english": "It was, like, really weird.",
-            "korean": "그게 좀, 뭐랄까, 진짜 이상했어."
-          },
-          {
-            "english": "He was like, \"no way.\"",
-            "korean": "걔가 막 \"말도 안 돼\" 이러는 거야."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "I don't know · 글쎄",
-        "description": "진짜 모른다는 게 아니라 의견을 흐릴 때 씁니다.",
-        "examples": [
-          {
-            "english": "I don't know, it just felt off.",
-            "korean": "글쎄, 그냥 좀 이상했어."
-          },
-          {
-            "english": "I dunno. Maybe.",
-            "korean": "몰라. 그럴 수도."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "well · 음",
-        "description": "바로 답하기 어려울 때 앞에 놓습니다.",
-        "examples": [
-          {
-            "english": "Well, that's one way to do it.",
-            "korean": "음, 그것도 방법이긴 하네."
-          },
-          {
-            "english": "Well... I guess.",
-            "korean": "글쎄... 뭐 그렇지."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "so yeah · 뭐, 그렇다고",
-        "description": "이야기를 흐지부지 맺을 때 쓰는 마무리입니다.",
-        "examples": [
-          {
-            "english": "So, anyway, we left early.",
-            "korean": "그래서, 아무튼, 우린 일찍 나왔어."
-          },
-          {
-            "english": "So yeah.",
-            "korean": "뭐, 그렇다고."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 36,
-    "kicker": "VERB",
-    "title": "call",
-    "lede": "전화한다는 뜻 말고 \"부르다·결정하다·지적하다\"로 자주 씁니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "call it a day · 오늘은 여기까지",
-        "description": "일을 마칠 때 쓰는 굳어진 표현입니다. 밤이면 call it a night이 됩니다.",
-        "examples": [
-          {
-            "english": "Let's call it a day.",
-            "korean": "오늘은 여기까지 하자."
-          },
-          {
-            "english": "I'm calling it a night.",
-            "korean": "난 이만 들어갈게."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "call off · 취소하다",
-        "description": "예정된 일을 없던 것으로 만든다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "They called off the meeting.",
-            "korean": "회의가 취소됐어."
-          },
-          {
-            "english": "Call it off.",
-            "korean": "그냥 취소해."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "your call · 네가 결정할 일",
-        "description": "결정과 판단을 call이라고 합니다. 세 표현이 한 세트예요.",
-        "examples": [
-          {
-            "english": "It's your call.",
-            "korean": "네가 정해."
-          },
-          {
-            "english": "Good call.",
-            "korean": "잘 판단했어."
-          },
-          {
-            "english": "Tough call.",
-            "korean": "결정하기 어렵네."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "call out · 대놓고 지적하다",
-        "description": "잘못을 공개적으로 짚는다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "She called him out.",
-            "korean": "걔가 그를 대놓고 지적했어."
-          },
-          {
-            "english": "Don't call me out like that.",
-            "korean": "그렇게 대놓고 말하지 마."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "call it · ~인 걸로 하자",
-        "description": "합의해서 그렇게 부르자는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Let's call it even.",
-            "korean": "그냥 비긴 걸로 하자."
-          },
-          {
-            "english": "Call it what you want.",
-            "korean": "뭐라고 부르든 상관없어."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 37,
-    "kicker": "PHRASE",
-    "title": "good",
-    "lede": "\"좋다\"로만 알면 절반은 오해합니다. 거절에도 쓰이거든요.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "I'm good · 난 됐어",
-        "description": "\"난 좋아\"가 아니라 정중한 거절입니다.",
-        "examples": [
-          {
-            "english": "\"More coffee?\" \"I'm good.\"",
-            "korean": "\"커피 더 드릴까요?\" \"전 괜찮아요.\""
-          },
-          {
-            "english": "I'm good, thanks.",
-            "korean": "괜찮아, 고마워."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "good for you · 잘됐다",
-        "description": "축하의 말인데, 억양에 따라 비꼼이 되기도 합니다.",
-        "examples": [
-          {
-            "english": "Good for you!",
-            "korean": "잘됐다!"
-          },
-          {
-            "english": "Good on you.",
-            "korean": "잘했네."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "no good · 소용없다",
-        "description": "쓸모없다는 뜻. up to no good은 \"꿍꿍이가 있다\"입니다.",
-        "examples": [
-          {
-            "english": "It's no good.",
-            "korean": "이건 안 되겠어."
-          },
-          {
-            "english": "He's up to no good.",
-            "korean": "걔 뭔가 꿍꿍이가 있어."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "as good as · ~나 마찬가지",
-        "description": "아직 아니지만 사실상 그렇다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "It's as good as done.",
-            "korean": "다 된 거나 마찬가지야."
-          },
-          {
-            "english": "He's as good as gone.",
-            "korean": "걘 이미 떠난 거나 다름없어."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "for good · 영영",
-        "description": "다시는 돌아오지 않는다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "She left for good.",
-            "korean": "걘 아주 떠났어."
-          },
-          {
-            "english": "I'm done for good.",
-            "korean": "이제 진짜 끝이야."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 38,
-    "kicker": "SET",
-    "title": "disagreeing",
-    "lede": "반대할 때 No라고 하면 대화가 끊겨요. 원어민은 이렇게 비켜 갑니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "I see it differently · 난 좀 다르게 봐",
-        "description": "상대를 틀렸다고 하지 않고 내 자리만 밝힙니다.",
-        "examples": [
-          {
-            "english": "I see it differently.",
-            "korean": "난 좀 다르게 보는데."
-          },
-          {
-            "english": "I'm not so sure about that.",
-            "korean": "그건 잘 모르겠는데."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "that's fair, but · 그건 맞는데",
-        "description": "먼저 인정하고 뒤집는 2단 구조입니다.",
-        "examples": [
-          {
-            "english": "That's fair, but there's another side.",
-            "korean": "그건 맞는데, 다른 면도 있어."
-          },
-          {
-            "english": "I get that, but still.",
-            "korean": "이해는 하는데, 그래도."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "not necessarily · 꼭 그렇진 않아",
-        "description": "단정을 부드럽게 무너뜨리는 말입니다.",
-        "examples": [
-          {
-            "english": "Not necessarily.",
-            "korean": "꼭 그렇진 않아."
-          },
-          {
-            "english": "It depends.",
-            "korean": "상황에 따라 다르지."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "I wouldn't go that far · 거기까진 아니지",
-        "description": "상대의 표현이 과할 때 한 칸 물러서게 만듭니다.",
-        "examples": [
-          {
-            "english": "I wouldn't go that far.",
-            "korean": "거기까진 아니지."
-          },
-          {
-            "english": "That's a bit of a stretch.",
-            "korean": "그건 좀 과한 해석 같은데."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "agree to disagree · 다른 걸로 하자",
-        "description": "결론이 안 날 때 싸우지 않고 끝내는 표현입니다.",
-        "examples": [
-          {
-            "english": "Let's agree to disagree.",
-            "korean": "서로 생각이 다른 걸로 하자."
-          },
-          {
-            "english": "We'll have to agree to disagree.",
-            "korean": "이건 의견 차이로 두자."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 39,
-    "kicker": "VERB",
-    "title": "leave",
-    "lede": "떠난다는 뜻 말고 \"놔두다·남기다\"가 회화에선 더 많아요.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "leave it · 그냥 둬",
-        "description": "손대지 말라는 뜻, 그리고 맡기라는 뜻으로 씁니다.",
-        "examples": [
-          {
-            "english": "Just leave it.",
-            "korean": "그냥 둬."
-          },
-          {
-            "english": "Leave it to me.",
-            "korean": "나한테 맡겨."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "leave out · 빼먹다",
-        "description": "포함시키지 않는다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "You left out the best part.",
-            "korean": "제일 좋은 부분을 빼먹었잖아."
-          },
-          {
-            "english": "Don't leave me out.",
-            "korean": "나 빼놓지 마."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "leave alone · 건드리지 마",
-        "description": "사람에게 쓰면 혼자 두라는 뜻, 사물에 쓰면 손대지 말라는 뜻입니다.",
-        "examples": [
-          {
-            "english": "Leave me alone.",
-            "korean": "나 좀 내버려 둬."
-          },
-          {
-            "english": "Leave it alone.",
-            "korean": "손대지 마."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "leave a message · 남기다",
-        "description": "뒤에 남겨두고 간다는 원래 뜻입니다.",
-        "examples": [
-          {
-            "english": "Leave a message.",
-            "korean": "메시지 남겨줘."
-          },
-          {
-            "english": "He left without saying goodbye.",
-            "korean": "걘 인사도 없이 갔어."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "left · 남은",
-        "description": "과거분사가 형용사처럼 쓰여 \"남아 있는\"을 뜻합니다.",
-        "examples": [
-          {
-            "english": "Is there any left?",
-            "korean": "남은 거 있어?"
-          },
-          {
-            "english": "I have ten minutes left.",
-            "korean": "10분 남았어."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 40,
-    "kicker": "PHRASE",
-    "title": "back",
-    "lede": "등이라는 뜻 말고 \"되돌리다·물러서다·편들다\"로 자주 씁니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "get back to · 다시 연락하다",
-        "description": "즉답을 미룰 때의 정해진 표현입니다.",
-        "examples": [
-          {
-            "english": "Let me get back to you on that.",
-            "korean": "그건 좀 있다 다시 얘기해줄게."
-          },
-          {
-            "english": "He never got back to me.",
-            "korean": "걔 답이 없었어."
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "back off · 물러서다",
-        "description": "거리를 두라는 뜻. 강하게 말하면 경고가 됩니다.",
-        "examples": [
-          {
-            "english": "Back off.",
-            "korean": "좀 물러서."
-          },
-          {
-            "english": "I'll back off.",
-            "korean": "내가 빠질게."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "back up · 편들다 · 백업하다",
-        "description": "뒤에서 받쳐준다는 감각이 공통입니다.",
-        "examples": [
-          {
-            "english": "Back me up here.",
-            "korean": "여기서 좀 거들어줘."
-          },
-          {
-            "english": "Back up your files.",
-            "korean": "파일 백업해둬."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "back out · 발을 빼다",
-        "description": "하기로 한 일을 막판에 무른다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "He backed out at the last minute.",
-            "korean": "걔가 막판에 발을 뺐어."
-          },
-          {
-            "english": "You can't back out now.",
-            "korean": "이제 와서 못 물러."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "back and forth · 왔다 갔다",
-        "description": "결론 없이 오가는 상태를 말합니다.",
-        "examples": [
-          {
-            "english": "We went back and forth on it.",
-            "korean": "그걸 두고 한참 왔다 갔다 했어."
-          },
-          {
-            "english": "Stop going back and forth.",
-            "korean": "그만 왔다 갔다 해."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 41,
-    "kicker": "SET",
-    "title": "shrugs",
-    "lede": "썩 내키지 않을 때의 반응이에요. 한마디로 끝내는 게 핵심입니다.",
-    "blocks": [
-      {
-        "number": "01",
-        "label": "go figure · 참 알다가도 모르겠네",
-        "description": "어이없는 결과 앞에서 어깨 으쓱하는 말입니다.",
-        "examples": [
-          {
-            "english": "He got promoted. Go figure.",
-            "korean": "걔가 승진했대. 참 알다가도 모르겠네."
-          },
-          {
-            "english": "Go figure, right?",
-            "korean": "어이없지 않냐?"
-          }
-        ]
-      },
-      {
-        "number": "02",
-        "label": "suit yourself · 네 맘대로 해",
-        "description": "설득을 포기한 사람의 말입니다. 서운함이 살짝 묻어요.",
-        "examples": [
-          {
-            "english": "Suit yourself.",
-            "korean": "알아서 해."
-          },
-          {
-            "english": "Fine, suit yourself.",
-            "korean": "그래, 네 맘대로 해."
-          }
-        ]
-      },
-      {
-        "number": "03",
-        "label": "whatever · 됐어 · 아무거나",
-        "description": "무관심을 드러냅니다. 상대에 따라 무례하게 들릴 수 있어요.",
-        "examples": [
-          {
-            "english": "Whatever.",
-            "korean": "됐어, 관심 없어."
-          },
-          {
-            "english": "Whatever you want.",
-            "korean": "네가 원하는 대로."
-          }
-        ]
-      },
-      {
-        "number": "04",
-        "label": "if you say so · 네가 그렇다면 뭐",
-        "description": "동의하지 않지만 더 따지지 않겠다는 뜻입니다.",
-        "examples": [
-          {
-            "english": "If you say so.",
-            "korean": "뭐, 네가 그렇다면."
-          },
-          {
-            "english": "Sure, okay.",
-            "korean": "어, 그러시든가."
-          }
-        ]
-      },
-      {
-        "number": "05",
-        "label": "big deal · 그게 뭐 대수라고",
-        "description": "no가 붙으면 위로, 안 붙으면 비꼼이 됩니다.",
-        "examples": [
-          {
-            "english": "Big deal.",
-            "korean": "그게 뭐 대수라고."
-          },
-          {
-            "english": "What's the big deal?",
-            "korean": "뭐가 그렇게 대단한 건데?"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "episode": 42,
-    "kicker": "VERB",
     "title": "pull",
-    "lede": "당긴다는 뜻에서 \"해내다·버텨내다·빠지다\"로 뻗어 나갑니다.",
+    "lede": "의자를 당겨 함께 앉고, 화면에 사진을 띄우고, 애쓴 일을 나눠요. pull의 몇 가지 표현을 장면과 함께 기억해봐요.",
     "blocks": [
       {
         "number": "01",
-        "label": "pull off · 해내다 · 소화하다",
-        "description": "어려운 걸 성공시킨다는 뜻. 옷이나 스타일에도 씁니다.",
+        "label": "pull up a chair · 의자를 가져와 앉다",
+        "description": "모임에 뒤늦게 온 사람이 있다면 자리를 만들어줘요. 의자를 가까이 가져와도 되는지 물어볼 수도 있어요.",
         "examples": [
           {
-            "english": "I can't believe you pulled it off.",
-            "korean": "네가 해냈다니 믿기지가 않아."
+            "english": "Pull up a chair and join us.",
+            "korean": "의자 가져와서 같이 앉아요."
           },
           {
-            "english": "Not everyone can pull that off.",
-            "korean": "그건 아무나 소화 못 해."
+            "english": "Can I pull up a chair here?",
+            "korean": "여기에 의자 가져와서 앉아도 될까요?"
           }
         ]
       },
       {
         "number": "02",
-        "label": "pull over · 차를 세우다",
-        "description": "길가에 차를 대는 것. 경찰이 세울 때도 씁니다.",
+        "label": "pull up · 화면에 띄우다",
+        "description": "말로만 설명하기 어려우면 사진이나 지도를 보여줘요. 휴대폰에서 자료를 여는 동안 잠깐 기다려달라는 느낌도 전해져요.",
         "examples": [
           {
-            "english": "Pull over here.",
-            "korean": "여기 세워줘."
+            "english": "Let me pull up a photo. It's easier to show you.",
+            "korean": "사진 하나 보여드릴게요. 직접 보시는 게 더 쉬워요."
           },
           {
-            "english": "The cop pulled me over.",
-            "korean": "경찰이 차를 세웠어."
+            "english": "Can you pull up the menu on your phone?",
+            "korean": "휴대폰으로 메뉴 좀 띄워주실래요?"
           }
         ]
       },
       {
         "number": "03",
-        "label": "pull through · 이겨내다",
-        "description": "힘든 시기를 견디고 나온다는 뜻입니다.",
+        "label": "pull · 당기다",
+        "description": "문이 잘 안 열리거나 의자가 너무 멀면 행동을 알려줘요. 손짓과 함께 짧게 말하면 쉽게 통할 수 있어요.",
         "examples": [
           {
-            "english": "She'll pull through.",
-            "korean": "걘 이겨낼 거야."
+            "english": "You need to pull the door. It's a bit heavy.",
+            "korean": "문을 당겨야 해요. 좀 무거워요."
           },
           {
-            "english": "We pulled through somehow.",
-            "korean": "어떻게든 버텨냈어."
+            "english": "Can you pull your chair a little closer?",
+            "korean": "의자를 조금 더 가까이 당겨주실래요?"
           }
         ]
       },
       {
         "number": "04",
-        "label": "pull out · 빠지다 · 꺼내다",
-        "description": "손을 떼는 것, 그리고 물건을 꺼내는 것 둘 다입니다.",
+        "label": "pull off · 해내다",
+        "description": "조금 어려웠던 요리나 행사 준비를 해냈다면 그 이야기를 나눠봐요. 상대가 해낸 일이 인상적이었다고 말해줘도 좋아요.",
         "examples": [
           {
-            "english": "They pulled out of the deal.",
-            "korean": "걔네가 거래에서 빠졌어."
+            "english": "Cooking for ten people was a challenge, but I pulled it off.",
+            "korean": "열 명 먹을 음식을 만드는 게 쉽진 않았는데 해냈어요."
           },
           {
-            "english": "He pulled out his phone.",
-            "korean": "걔가 폰을 꺼냈어."
+            "english": "You cooked all of this yourself? How did you pull that off?",
+            "korean": "이걸 전부 혼자 요리하셨어요? 어떻게 다 하셨어요?"
           }
         ]
       },
       {
         "number": "05",
         "label": "pull an all-nighter · 밤을 새다",
-        "description": "pull은 무리한 일을 감행한다는 뜻으로도 씁니다.",
+        "description": "일이나 공부 때문에 밤을 샌 이야기가 나올 때예요. 일상적인 피곤함과 생활 습관을 나누는 데 써봐요.",
         "examples": [
           {
-            "english": "I pulled an all-nighter.",
-            "korean": "밤을 샜어."
+            "english": "I pulled an all-nighter to finish a project.",
+            "korean": "프로젝트 마무리하느라 밤을 샜어요."
           },
           {
-            "english": "Don't pull that again.",
-            "korean": "그런 짓 또 하지 마."
+            "english": "I can't pull all-nighters anymore. I need my sleep.",
+            "korean": "이제는 밤 못 새겠어요. 잠은 자야 해요."
           }
         ]
       }
